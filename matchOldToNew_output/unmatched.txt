@@ -1,0 +1,32 @@
+1847 Ananias C. Hernandez NHS (Arumahan NHS) 1698
+1905 Bayorbor NHS 1752
+1916 Bilogo NHS 1763
+1924 Bolbok NHS 1771
+24909 Calaya ES 3635
+./matchOldToNew.py:16: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if newSchoolObj["name"] == schoolName:
+29962 Cansoso  Elementary School 4955
+6646 CCNHS Annex - Bubong Site 8682
+6664 Cotabato Foundation College of Science and Teachno... 6353
+2024 Dacanlao G. Agoncillo NHS 1745
+
+1309 DoÑa Candelaria Meneses Duque National High School 1058
+2097 Gov. Ferrer MNHS (Main) 1938
+1381 Iluminada Mendoza-Roxas Memorial High School (Bamb... 1020
+25482 Jordan CS 3766
+17552 Jorge B. Vargas MES 1719
+2139 Jose Lopez Manzano Tuy National High School 1771
+6745 Kabacan NHS  Annex-nangaan 6349
+2142 Kapayapaan National High School 1775
+25548 Lanipe ES 3635
+17693 Lemery Pilot ES 1698
+2229 Makiling National High School 1775
+6854 Malasila National Vocational and Technological Hig... 6377
+6934 Pangao-an NHS 6340
+26064 Panobolon PS 3635
+26229 Salvacion CS 3635
+
+2551 Talisay School of Agriculture 1719
+26534 Tangaw PS 3698
+40172 Tubak Primary School Annex 6339
+19206 Turbina ES 1775

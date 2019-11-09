@@ -1,0 +1,8432 @@
+{
+  "minglanilla_cebu_region vii": {
+    "cityId": "4133", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "mayantoc_tarlac_region iii": {
+    "cityId": "1097", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "kalibo (capital)_aklan_region vi": {
+    "cityId": "3558", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "can-avid_eastern samar_region viii": {
+    "cityId": "4757", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "alegria_cebu_region vii": {
+    "cityId": "4300", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "tandubas_tawi-tawi_armm": {
+    "cityId": "7409", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "san vicente_palawan_region iv-b": {
+    "cityId": "9368", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "city of navotas_navotas_ncr": {
+    "cityId": "7931", 
+    "regId": "209", 
+    "divId": "327"
+  }, 
+  "santo ni\u00f1o (faire)_cagayan_region ii": {
+    "cityId": "9243", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "alicia_isabela_region ii": {
+    "cityId": "559", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "aritao_nueva vizcaya_region ii": {
+    "cityId": "574", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "tagapul-an_samar (western samar)_region viii": {
+    "cityId": "4688", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "al-barka_basilan_armm": {
+    "cityId": "9261", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "indang_cavite_region iv-a": {
+    "cityId": "1849", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "cuenca_batangas_region iv-a": {
+    "cityId": "1865", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "lagonglong_misamis oriental_region x": {
+    "cityId": "5658", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "barbaza_antique_region vi": {
+    "cityId": "3599", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "matalom_leyte_region viii": {
+    "cityId": "4743", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "abu dhabi_united arab emirates_pso": {
+    "cityId": "9246", 
+    "regId": "211", 
+    "divId": "1539"
+  }, 
+  "baclayon_bohol_region vii": {
+    "cityId": "4027", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "sultan gumander (picong)_lanao del sur - ii_armm": {
+    "cityId": "8689", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "laguindingan_misamis oriental_region x": {
+    "cityId": "5733", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "silago_southern leyte_region viii": {
+    "cityId": "4851", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "pantar_lanao del norte_region x": {
+    "cityId": "5865", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "bais city_bais city_region vii": {
+    "cityId": "8152", 
+    "regId": "200", 
+    "divId": "337"
+  }, 
+  "tineg_abra_car": {
+    "cityId": "7608", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "lemery_iloilo_region vi": {
+    "cityId": "9401", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "aparri_cagayan_region ii": {
+    "cityId": "571", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "nagcarlan_laguna_region iv-a": {
+    "cityId": "1825", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "ajuy_iloilo_region vi": {
+    "cityId": "3557", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "santa marcela_apayao_car": {
+    "cityId": "7628", 
+    "regId": "208", 
+    "divId": "312"
+  }, 
+  "catmon_cebu_region vii": {
+    "cityId": "4169", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "culasi_antique_region vi": {
+    "cityId": "3619", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "tagbina_surigao del sur_caraga": {
+    "cityId": "6905", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "langiden_abra_car": {
+    "cityId": "7685", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "carmen_bohol_region vii": {
+    "cityId": "4008", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "santo tomas_davao del norte_region xi": {
+    "cityId": "9468", 
+    "regId": "204", 
+    "divId": "265"
+  }, 
+  "lumbayanague_lanao del sur - ii_armm": {
+    "cityId": "8705", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "paco_manila_ncr": {
+    "cityId": "7862", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "t'boli_south cotabato_region xii": {
+    "cityId": "6330", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "gasan_marinduque_region iv-b": {
+    "cityId": "2484", 
+    "regId": "197", 
+    "divId": "190"
+  }, 
+  "valencia (luzurriaga)_negros oriental_region vii": {
+    "cityId": "8156", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "hinabangan_samar (western samar)_region viii": {
+    "cityId": "4684", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "gutalac_zamboanga del norte_region ix": {
+    "cityId": "5251", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "santa magdalena_sorsogon_region v": {
+    "cityId": "3475", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "gingoog city_gingoog city_region x": {
+    "cityId": "5585", 
+    "regId": "203", 
+    "divId": "255"
+  }, 
+  "san fernando_romblon_region iv-b": {
+    "cityId": "2470", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "binalbagan_negros occidental_region vi": {
+    "cityId": "9394", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "kinoguitan_misamis oriental_region x": {
+    "cityId": "5627", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "san miguel_leyte_region viii": {
+    "cityId": "9441", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "rizal (marcos)_palawan_region iv-b": {
+    "cityId": "2520", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "malate_manila_ncr": {
+    "cityId": "7993", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "masinloc_zambales_region iii": {
+    "cityId": "1009", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "kumalarang_zamboanga del sur_region ix": {
+    "cityId": "5234", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "tinoc_ifugao_car": {
+    "cityId": "7635", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "santa cruz_davao del sur_region xi": {
+    "cityId": "9467", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "san simon_pampanga_region iii": {
+    "cityId": "1127", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "omar_sulu_armm": {
+    "cityId": "7282", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "pateros_taguig_ncr": {
+    "cityId": "7828", 
+    "regId": "209", 
+    "divId": "319"
+  }, 
+  "zamboanguita_negros oriental_region vii": {
+    "cityId": "8568", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "mabini (do\u00f1a alicia)_compostela valley_region xi": {
+    "cityId": "5982", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "matuguinao_samar (western samar)_region viii": {
+    "cityId": "4960", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "oslob_cebu_region vii": {
+    "cityId": "4140", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "lapinig_northern samar_region viii": {
+    "cityId": "4918", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "gen. mariano alvarez_cavite_region iv-a": {
+    "cityId": "1928", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "guinayangan_quezon_region iv-a": {
+    "cityId": "9213", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "san isidro_abra_car": {
+    "cityId": "9273", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "orion_bataan_region iii": {
+    "cityId": "1018", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "sara_iloilo_region vi": {
+    "cityId": "3577", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "badian_cebu_region vii": {
+    "cityId": "4028", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "rodriguez (montalban)_rizal_region iv-a": {
+    "cityId": "1796", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "pambujan_northern samar_region viii": {
+    "cityId": "5009", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "lagawe (capital)_ifugao_car": {
+    "cityId": "7551", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "pozorrubio_pangasinan ii, binalonan_region i": {
+    "cityId": "8578", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "sebaste_antique_region vi": {
+    "cityId": "3936", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "banaue_ifugao_car": {
+    "cityId": "7573", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "belison_antique_region vi": {
+    "cityId": "3615", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "cabanatuan city_nueva ecija_region iii": {
+    "cityId": "9323", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "san francisco_cebu_region vii": {
+    "cityId": "4112", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "getafe_bohol_region vii": {
+    "cityId": "4137", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "isabela_negros occidental_region vi": {
+    "cityId": "8329", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "santo tomas_batangas_region iv-a": {
+    "cityId": "9353", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "san francisco (anao-aon)_agusan del sur_caraga": {
+    "cityId": "9290", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "padre burgos_southern leyte_region viii": {
+    "cityId": "1872", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "imelda_zamboanga sibugay_region ix": {
+    "cityId": "5322", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "camalaniugan_cagayan_region ii": {
+    "cityId": "633", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "wao_lanao del sur - i_armm": {
+    "cityId": "7342", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "cavite city_cavite city_region iv-a": {
+    "cityId": "1844", 
+    "regId": "196", 
+    "divId": "181"
+  }, 
+  "sapi-an_capiz_region vi": {
+    "cityId": "3800", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "las nieves_agusan del norte_caraga": {
+    "cityId": "6907", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "mulanay_quezon_region iv-a": {
+    "cityId": "9222", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "la paz_leyte_region viii": {
+    "cityId": "4681", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "san narciso_zambales_region iii": {
+    "cityId": "1260", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "mandaue city_mandaue city_region vii": {
+    "cityId": "4042", 
+    "regId": "200", 
+    "divId": "224"
+  }, 
+  "jose dalman (ponot)_zamboanga del norte_region ix": {
+    "cityId": "5275", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "city of tabuk (capital)_tabuk city_car": {
+    "cityId": "7532", 
+    "regId": "208", 
+    "divId": "309"
+  }, 
+  "candijay_bohol_region vii": {
+    "cityId": "4013", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "lapuyan_zamboanga del sur_region ix": {
+    "cityId": "5243", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "city of alaminos_alaminos city_region i": {
+    "cityId": "117", 
+    "regId": "192", 
+    "divId": "134"
+  }, 
+  "daram_samar (western samar)_region viii": {
+    "cityId": "4682", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "san miguel_catanduanes_region v": {
+    "cityId": "9388", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "alabel (capital)_sarangani_region xii": {
+    "cityId": "6334", 
+    "regId": "205", 
+    "divId": "278"
+  }, 
+  "jordan (capital)_guimaras_region vi": {
+    "cityId": "3766", 
+    "regId": "199", 
+    "divId": "212"
+  }, 
+  "vintar_ilocos norte_region i": {
+    "cityId": "292", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "san jose (capital)_antique_region vi": {
+    "cityId": "3574", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "cantilan_surigao del sur_caraga": {
+    "cityId": "6885", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "puerto galera_oriental mindoro_region iv-b": {
+    "cityId": "2595", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "roxas_oriental mindoro_region iv-b": {
+    "cityId": "9363", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "bago city_bago city_region vi": {
+    "cityId": "8148", 
+    "regId": "199", 
+    "divId": "335"
+  }, 
+  "calasiao_pangasinan i, lingayen_region i": {
+    "cityId": "185", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "san jose_tarlac_region iii": {
+    "cityId": "1230", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "viga_catanduanes_region v": {
+    "cityId": "3417", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "la trinidad (capital)_benguet_car": {
+    "cityId": "7588", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "dipolog city (capital)_dipolog city_region ix": {
+    "cityId": "5193", 
+    "regId": "202", 
+    "divId": "244"
+  }, 
+  "lingayen (capital)_pangasinan i, lingayen_region i": {
+    "cityId": "262", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "bumbaran_lanao del sur - i_armm": {
+    "cityId": "7245", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "solana_cagayan_region ii": {
+    "cityId": "567", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "tantangan_south cotabato_region xii": {
+    "cityId": "6388", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "mapun (cagayan de tawi-tawi)_tawi-tawi_armm": {
+    "cityId": "7381", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "enrile_cagayan_region ii": {
+    "cityId": "701", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "anini-y_antique_region vi": {
+    "cityId": "3745", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "bindoy (payabon)_negros oriental_region vii": {
+    "cityId": "8196", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "pavia_iloilo_region vi": {
+    "cityId": "3888", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "arakan_north cotabato_region xii": {
+    "cityId": "6353", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "pilar_bohol_region vii": {
+    "cityId": "9422", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "libagon_southern leyte_region viii": {
+    "cityId": "4903", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "city of carcar_carcar city_region vii": {
+    "cityId": "4139", 
+    "regId": "200", 
+    "divId": "234"
+  }, 
+  "tapaz_capiz_region vi": {
+    "cityId": "3586", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "lubang_occidental mindoro_region iv-b": {
+    "cityId": "2645", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "aguilar_pangasinan i, lingayen_region i": {
+    "cityId": "116", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "dolores_eastern samar_region viii": {
+    "cityId": "1868", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "sibalom_antique_region vi": {
+    "cityId": "3699", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "salvador_lanao del norte_region x": {
+    "cityId": "5884", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "san agustin_romblon_region iv-b": {
+    "cityId": "9364", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "south ubian_tawi-tawi_armm": {
+    "cityId": "7414", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "miagao_iloilo city_region vi": {
+    "cityId": "9403", 
+    "regId": "199", 
+    "divId": "194"
+  }, 
+  "city of kidapawan (capital)_kidapawan city_region xii": {
+    "cityId": "6342", 
+    "regId": "205", 
+    "divId": "280"
+  }, 
+  "teresa_rizal_region iv-a": {
+    "cityId": "1677", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "liloy_zamboanga del norte_region ix": {
+    "cityId": "5258", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "city of dasmari\u00f1as_dasmarinas city_region iv-a": {
+    "cityId": "1860", 
+    "regId": "196", 
+    "divId": "183"
+  }, 
+  "bokod_benguet_car": {
+    "cityId": "7596", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "asingan_pangasinan ii, binalonan_region i": {
+    "cityId": "8572", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "bautista_pangasinan ii, binalonan_region i": {
+    "cityId": "8575", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "batan_aklan_region vi": {
+    "cityId": "3571", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "roxas_isabela_region ii": {
+    "cityId": "759", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "lemery_batangas_region iv-a": {
+    "cityId": "1698", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "piagapo_lanao del sur - i_armm": {
+    "cityId": "7241", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "port area_manila_ncr": {
+    "cityId": "8027", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "talisayan_misamis oriental_region x": {
+    "cityId": "5809", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "guindulungan_maguindanao i_armm": {
+    "cityId": "7315", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "mogpog_marinduque_region iv-b": {
+    "cityId": "2466", 
+    "regId": "197", 
+    "divId": "190"
+  }, 
+  "tadian_mt. province_car": {
+    "cityId": "7538", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "looc_occidental mindoro_region iv-b": {
+    "cityId": "9358", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "hadji mohammad ajul_basilan_armm": {
+    "cityId": "7469", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "iguig_cagayan_region ii": {
+    "cityId": "636", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "parang_maguindanao ii_armm": {
+    "cityId": "7247", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "inopacan_leyte_region viii": {
+    "cityId": "4781", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "bobon_northern samar_region viii": {
+    "cityId": "4715", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "tigbauan_iloilo_region vi": {
+    "cityId": "3587", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "caramoran_catanduanes_region v": {
+    "cityId": "3012", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "panglao_bohol_region vii": {
+    "cityId": "4364", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "maluso_basilan_armm": {
+    "cityId": "7366", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "limasawa_southern leyte_region viii": {
+    "cityId": "4911", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "gubat_sorsogon_region v": {
+    "cityId": "2899", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "malitbog_southern leyte_region viii": {
+    "cityId": "4784", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "sibagat_agusan del sur_caraga": {
+    "cityId": "6814", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "porac_pampanga_region iii": {
+    "cityId": "1086", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "general santos city (dadiangas)_general santos city_region xii": {
+    "cityId": "6329", 
+    "regId": "205", 
+    "divId": "273"
+  }, 
+  "kalilangan_bukidnon_region x": {
+    "cityId": "5724", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "cardona_rizal_region iv-a": {
+    "cityId": "1756", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "caraga_davao oriental_region xi": {
+    "cityId": "6033", 
+    "regId": "204", 
+    "divId": "269"
+  }, 
+  "bagumbayan_sultan kudarat_region xii": {
+    "cityId": "6354", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "mabuhay_zamboanga sibugay_region ix": {
+    "cityId": "5389", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "mapanas_northern samar_region viii": {
+    "cityId": "4926", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "garchitorena_camarines sur_region v": {
+    "cityId": "2907", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "bayambang_pangasinan i, lingayen_region i": {
+    "cityId": "168", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "panitan_capiz_region vi": {
+    "cityId": "3787", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "goa_camarines sur_region v": {
+    "cityId": "3120", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "baganga_davao oriental_region xi": {
+    "cityId": "5992", 
+    "regId": "204", 
+    "divId": "269"
+  }, 
+  "limay_bataan_region iii": {
+    "cityId": "1263", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "carmona_cavite_region iv-a": {
+    "cityId": "1834", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "santo domingo_nueva ecija_region iii": {
+    "cityId": "9337", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "jimalalud_negros oriental_region vii": {
+    "cityId": "8336", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "tubungan_iloilo_region vi": {
+    "cityId": "3780", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "castillejos_zambales_region iii": {
+    "cityId": "1104", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "due\u00f1as_iloilo_region vi": {
+    "cityId": "3638", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "naic_cavite_region iv-a": {
+    "cityId": "1848", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "san francisco_agusan del sur_caraga": {
+    "cityId": "9289", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "quezon city_quezon city_ncr": {
+    "cityId": "7839", 
+    "regId": "209", 
+    "divId": "314"
+  }, 
+  "lingig_surigao del sur_caraga": {
+    "cityId": "6834", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "al-khobar_kingdom of saudi arabia_pso": {
+    "cityId": "9255", 
+    "regId": "211", 
+    "divId": "1543"
+  }, 
+  "conner_apayao_car": {
+    "cityId": "7547", 
+    "regId": "208", 
+    "divId": "312"
+  }, 
+  "city of tagum (capital)_davao del norte_region xi": {
+    "cityId": "9461", 
+    "regId": "204", 
+    "divId": "265"
+  }, 
+  "maydolong_eastern samar_region viii": {
+    "cityId": "4809", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "san pedro_laguna_region iv-a": {
+    "cityId": "9350", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "kapatagan_lanao del sur - ii_armm": {
+    "cityId": "9266", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "lobo_batangas_region iv-a": {
+    "cityId": "1729", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "tungawan_zamboanga sibugay_region ix": {
+    "cityId": "5365", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "carmen_north cotabato_region xii": {
+    "cityId": "9166", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "basista_pangasinan i, lingayen_region i": {
+    "cityId": "163", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "siruma_camarines sur_region v": {
+    "cityId": "3462", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "pilar_capiz_region vi": {
+    "cityId": "9405", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "san antonio_zambales_region iii": {
+    "cityId": "969", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "sirawai_zamboanga del norte_region ix": {
+    "cityId": "5262", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "san miguel_iloilo_region vi": {
+    "cityId": "9409", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "naval (capital)_biliran_region viii": {
+    "cityId": "4819", 
+    "regId": "201", 
+    "divId": "229"
+  }, 
+  "diadi_nueva vizcaya_region ii": {
+    "cityId": "666", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "dauin_negros oriental_region vii": {
+    "cityId": "8135", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "garcia hernandez_bohol_region vii": {
+    "cityId": "4131", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "city of tayabas_quezon_region iv-a": {
+    "cityId": "9209", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "danao city_danao city_region vii": {
+    "cityId": "4022", 
+    "regId": "200", 
+    "divId": "223"
+  }, 
+  "buguey_cagayan_region ii": {
+    "cityId": "762", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "bato_leyte_region viii": {
+    "cityId": "9432", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "igbaras_iloilo_region vi": {
+    "cityId": "3742", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "city of marikina_manila_ncr": {
+    "cityId": "9299", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "del carmen_siargao_caraga": {
+    "cityId": "6931", 
+    "regId": "206", 
+    "divId": "292"
+  }, 
+  "calumpit_bulacan_region iii": {
+    "cityId": "1081", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "buenavista_guimaras_region vi": {
+    "cityId": "9160", 
+    "regId": "199", 
+    "divId": "212"
+  }, 
+  "dingras_ilocos norte_region i": {
+    "cityId": "258", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "marantao_lanao del sur - i_armm": {
+    "cityId": "7290", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "badiangan_iloilo_region vi": {
+    "cityId": "3584", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "ginatilan_cebu_region vii": {
+    "cityId": "4281", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "magsaysay_palawan_region iv-b": {
+    "cityId": "2573", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "ibajay_aklan_region vi": {
+    "cityId": "3741", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "pinabacdao_samar (western samar)_region viii": {
+    "cityId": "5013", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "tangcal_lanao del norte_region x": {
+    "cityId": "5954", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "dumalneg_ilocos norte_region i": {
+    "cityId": "281", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "cauayan_negros occidental_region vi": {
+    "cityId": "8189", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "sanchez-mira_cagayan_region ii": {
+    "cityId": "621", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "kabuntalan (tumbao)_maguindanao ii_armm": {
+    "cityId": "7312", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "bay_laguna_region iv-a": {
+    "cityId": "1769", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "polangui_albay_region v": {
+    "cityId": "3147", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "paniqui_tarlac_region iii": {
+    "cityId": "992", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "quezon_nueva ecija_region iii": {
+    "cityId": "9327", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "rizal_occidental mindoro_region iv-b": {
+    "cityId": "9361", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "talisay_camarines norte_region v": {
+    "cityId": "9391", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "siaton_negros oriental_region vii": {
+    "cityId": "8141", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "don carlos_bukidnon_region x": {
+    "cityId": "5601", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "san pedro_cabuyao city_region iv-a": {
+    "cityId": "1680", 
+    "regId": "196", 
+    "divId": "1535"
+  }, 
+  "cabangan_zambales_region iii": {
+    "cityId": "1067", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "llorente_eastern samar_region viii": {
+    "cityId": "4696", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "villaviciosa_abra_car": {
+    "cityId": "9124", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "tubod_surigao del norte_caraga": {
+    "cityId": "7214", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "san vicente_ilocos sur_region i": {
+    "cityId": "476", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "burgos_ilocos sur_region i": {
+    "cityId": "9307", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "banton_romblon_region iv-b": {
+    "cityId": "2486", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "naguilian_isabela_region ii": {
+    "cityId": "9319", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "casiguran_sorsogon_region v": {
+    "cityId": "9381", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "amulung_cagayan_region ii": {
+    "cityId": "564", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "macabebe_pampanga_region iii": {
+    "cityId": "1071", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "san rafael_iloilo_region vi": {
+    "cityId": "9410", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "dagupan city_dagupan city_region i": {
+    "cityId": "9259", 
+    "regId": "192", 
+    "divId": "138"
+  }, 
+  "tabuan-lasa_basilan_armm": {
+    "cityId": "7270", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "tabango_leyte_region viii": {
+    "cityId": "4828", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "rizal (liwan)_kalinga_car": {
+    "cityId": "7682", 
+    "regId": "208", 
+    "divId": "311"
+  }, 
+  "bombon_camarines sur_region v": {
+    "cityId": "3457", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "dumingag_zamboanga del sur_region ix": {
+    "cityId": "5287", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "taytay_palawan_region iv-b": {
+    "cityId": "9372", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "santa cruz_occidental mindoro_region iv-b": {
+    "cityId": "9369", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "sibutad_zamboanga del norte_region ix": {
+    "cityId": "5345", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "maguing_lanao del sur - i_armm": {
+    "cityId": "7265", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "ozamis city_ozamis city_region x": {
+    "cityId": "5625", 
+    "regId": "203", 
+    "divId": "262"
+  }, 
+  "bauan_batangas_region iv-a": {
+    "cityId": "1748", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "sarangani_davao occidental_region xi": {
+    "cityId": "5975", 
+    "regId": "204", 
+    "divId": "1536"
+  }, 
+  "san ildefonso_bulacan_region iii": {
+    "cityId": "9330", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "pulupandan_negros occidental_region vi": {
+    "cityId": "8267", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "dumaguete city (capital)_negros oriental_region vii": {
+    "cityId": "9418", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "quezon_isabela_region ii": {
+    "cityId": "587", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "city of santa rosa_sta. rosa city_region iv-a": {
+    "cityId": "1707", 
+    "regId": "196", 
+    "divId": "170"
+  }, 
+  "lawaan_eastern samar_region viii": {
+    "cityId": "4716", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "catarman_camiguin_region x": {
+    "cityId": "5604", 
+    "regId": "203", 
+    "divId": "257"
+  }, 
+  "milagros_masbate_region v": {
+    "cityId": "3149", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "talakag_bukidnon_region x": {
+    "cityId": "5651", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "siay_zamboanga sibugay_region ix": {
+    "cityId": "5249", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "jamindan_capiz_region vi": {
+    "cityId": "3757", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "siasi_sulu_armm": {
+    "cityId": "7345", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "moalboal_cebu_region vii": {
+    "cityId": "4034", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "paglat_maguindanao i_armm": {
+    "cityId": "7281", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "dili_east timor_pso": {
+    "cityId": "9249", 
+    "regId": "211", 
+    "divId": "1540"
+  }, 
+  "binalonan_pangasinan ii, binalonan_region i": {
+    "cityId": "8577", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "lavezares_northern samar_region viii": {
+    "cityId": "4699", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "city of malabon_malabon city_ncr": {
+    "cityId": "7865", 
+    "regId": "209", 
+    "divId": "317"
+  }, 
+  "city of bi\u00f1an_binan city_region iv-a": {
+    "cityId": "1758", 
+    "regId": "196", 
+    "divId": "178"
+  }, 
+  "linapacan_palawan_region iv-b": {
+    "cityId": "2516", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "daraga (locsin)_albay_region v": {
+    "cityId": "2884", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "maigo_lanao del norte_region x": {
+    "cityId": "5792", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "lebak_sultan kudarat_region xii": {
+    "cityId": "6382", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "tagoloan_lanao del norte_region x": {
+    "cityId": "9457", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "macalelon_quezon_region iv-a": {
+    "cityId": "9220", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "city of mandaluyong_mandaluyong city_ncr": {
+    "cityId": "7827", 
+    "regId": "209", 
+    "divId": "318"
+  }, 
+  "dagami_leyte_region viii": {
+    "cityId": "4833", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "dumarao_capiz_region vi": {
+    "cityId": "3553", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "quezon_bukidnon_region x": {
+    "cityId": "9455", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "santo ni\u00f1o_south cotabato_region xii": {
+    "cityId": "9256", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "mallig_isabela_region ii": {
+    "cityId": "599", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "suyo_ilocos sur_region i": {
+    "cityId": "510", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "san luis_pampanga_region iii": {
+    "cityId": "9332", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "city of urdaneta_urdaneta city_region i": {
+    "cityId": "129", 
+    "regId": "192", 
+    "divId": "135"
+  }, 
+  "upi_maguindanao ii_armm": {
+    "cityId": "7272", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "zarraga_iloilo_region vi": {
+    "cityId": "3693", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "san marcelino_zambales_region iii": {
+    "cityId": "1045", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "san pascual_batangas_region iv-a": {
+    "cityId": "1685", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "bugasong_antique_region vi": {
+    "cityId": "3576", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "san julian_eastern samar_region viii": {
+    "cityId": "4983", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "mauban_quezon_region iv-a": {
+    "cityId": "9221", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "talugtug_nueva ecija_region iii": {
+    "cityId": "1634", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "dalaguete_cebu_region vii": {
+    "cityId": "4123", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "plaridel_bulacan_region iii": {
+    "cityId": "1008", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "socorro_siargao_caraga": {
+    "cityId": "9296", 
+    "regId": "206", 
+    "divId": "292"
+  }, 
+  "aloran_misamis occidental_region x": {
+    "cityId": "5573", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "angadanan_isabela_region ii": {
+    "cityId": "569", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "new bataan_compostela valley_region xi": {
+    "cityId": "5978", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "coron_palawan_region iv-b": {
+    "cityId": "2501", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "nagtipunan_quirino_region ii": {
+    "cityId": "676", 
+    "regId": "193", 
+    "divId": "143"
+  }, 
+  "samboan_cebu_region vii": {
+    "cityId": "4096", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "cabiao_nueva ecija_region iii": {
+    "cityId": "1068", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "city of isabela (capital)_basilan_armm": {
+    "cityId": "9265", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "carranglan_nueva ecija_region iii": {
+    "cityId": "1060", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "pilar_bataan_region iii": {
+    "cityId": "1176", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "culion_palawan_region iv-b": {
+    "cityId": "2541", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "kiamba_sarangani_region xii": {
+    "cityId": "6392", 
+    "regId": "205", 
+    "divId": "278"
+  }, 
+  "candelaria_quezon_region iv-a": {
+    "cityId": "9206", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "bacong_negros oriental_region vii": {
+    "cityId": "8192", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "roseller lim_zamboanga sibugay_region ix": {
+    "cityId": "5299", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "piddig_ilocos norte_region i": {
+    "cityId": "426", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "mercedes_camarines norte_region v": {
+    "cityId": "3016", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "guimbal_iloilo_region vi": {
+    "cityId": "3650", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "sibunag_guimaras_region vi": {
+    "cityId": "3563", 
+    "regId": "199", 
+    "divId": "212"
+  }, 
+  "city of catbalogan (capital)_catbalogan city_region viii": {
+    "cityId": "4676", 
+    "regId": "201", 
+    "divId": "235"
+  }, 
+  "antipas_north cotabato_region xii": {
+    "cityId": "6345", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "city of muntinlupa_muntinlupa city_ncr": {
+    "cityId": "7936", 
+    "regId": "209", 
+    "divId": "320"
+  }, 
+  "santa maria_bulacan_region iii": {
+    "cityId": "9336", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "buldon_maguindanao ii_armm": {
+    "cityId": "7254", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "liloan_southern leyte_region viii": {
+    "cityId": "9433", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "sultan mastura_maguindanao ii_armm": {
+    "cityId": "7475", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "bangar_la union_region i": {
+    "cityId": "226", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "gerona_tarlac_region iii": {
+    "cityId": "1044", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "alcoy_cebu_region vii": {
+    "cityId": "4003", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "san pablo_zamboanga del sur_region ix": {
+    "cityId": "9378", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "talitay_maguindanao i_armm": {
+    "cityId": "7500", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "roxas city (capital)_roxas city_region vi": {
+    "cityId": "3588", 
+    "regId": "199", 
+    "divId": "215"
+  }, 
+  "san quintin_pangasinan ii, binalonan_region i": {
+    "cityId": "9311", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "esperanza_sultan kudarat_region xii": {
+    "cityId": "9470", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "binangonan_rizal_region iv-a": {
+    "cityId": "1887", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "maconacon_isabela_region ii": {
+    "cityId": "777", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "gamay_northern samar_region viii": {
+    "cityId": "4674", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "dimiao_bohol_region vii": {
+    "cityId": "4151", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "tagoloan ii_lanao del sur - i_armm": {
+    "cityId": "7495", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "cuartero_capiz_region vi": {
+    "cityId": "3677", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "lanuza_surigao del sur_caraga": {
+    "cityId": "6817", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "silang_cavite_region iv-a": {
+    "cityId": "1791", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "bayang_lanao del sur - ii_armm": {
+    "cityId": "8698", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "tinglayan_kalinga_car": {
+    "cityId": "7577", 
+    "regId": "208", 
+    "divId": "311"
+  }, 
+  "lutayan_sultan kudarat_region xii": {
+    "cityId": "6347", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "amadeo_cavite_region iv-a": {
+    "cityId": "1694", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "majayjay_laguna_region iv-a": {
+    "cityId": "2322", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "magsaysay_lanao del norte_region x": {
+    "cityId": "9452", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "kauswagan_lanao del norte_region x": {
+    "cityId": "5732", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "santa maria_davao occidental_region xi": {
+    "cityId": "113", 
+    "regId": "204", 
+    "divId": "1536"
+  }, 
+  "presentacion (parubcan)_camarines sur_region v": {
+    "cityId": "2917", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "alcala_cagayan_region ii": {
+    "cityId": "550", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "mamasapano_maguindanao i_armm": {
+    "cityId": "7303", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "el nido (bacuit)_palawan_region iv-b": {
+    "cityId": "2476", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "city of guihulngan_guihulngan city_region vii": {
+    "cityId": "8293", 
+    "regId": "200", 
+    "divId": "345"
+  }, 
+  "apalit_pampanga_region iii": {
+    "cityId": "975", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "victoria_laguna_region iv-a": {
+    "cityId": "9354", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "trece martires city (capital)_cavite_region iv-a": {
+    "cityId": "1909", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "iba (capital)_zambales_region iii": {
+    "cityId": "963", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "sapad_lanao del norte_region x": {
+    "cityId": "5863", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "labrador_pangasinan i, lingayen_region i": {
+    "cityId": "327", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "salcedo_eastern samar_region viii": {
+    "cityId": "4810", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "city of calapan (capital)_calapan city_region iv-b": {
+    "cityId": "2506", 
+    "regId": "197", 
+    "divId": "193"
+  }, 
+  "alicia_bohol_region vii": {
+    "cityId": "9413", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "san remigio_cebu_region vii": {
+    "cityId": "9429", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "guiuan_eastern samar_region viii": {
+    "cityId": "4808", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "carles_iloilo_region vi": {
+    "cityId": "3666", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "sagay_camiguin_region x": {
+    "cityId": "5571", 
+    "regId": "203", 
+    "divId": "257"
+  }, 
+  "city of makati_makati city_ncr": {
+    "cityId": "7845", 
+    "regId": "209", 
+    "divId": "330"
+  }, 
+  "bayog_zamboanga del sur_region ix": {
+    "cityId": "5225", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "pagsanghan_samar (western samar)_region viii": {
+    "cityId": "4724", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "dumaguete city (capital)_dumaguete city_region vii": {
+    "cityId": "8206", 
+    "regId": "200", 
+    "divId": "343"
+  }, 
+  "datu salibo_maguindanao i_armm": {
+    "cityId": "9118", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "rosario_la union_region i": {
+    "cityId": "120", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "bacolor_pampanga_region iii": {
+    "cityId": "987", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "tubaran_lanao del sur - ii_armm": {
+    "cityId": "8700", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "kalookan city_caloocan city_ncr": {
+    "cityId": "7829", 
+    "regId": "209", 
+    "divId": "316"
+  }, 
+  "pidigan_abra_car": {
+    "cityId": "7793", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "malapatan_sarangani_region xii": {
+    "cityId": "6341", 
+    "regId": "205", 
+    "divId": "278"
+  }, 
+  "barcelona_sorsogon_region v": {
+    "cityId": "2920", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "cuyo_palawan_region iv-b": {
+    "cityId": "2545", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "city of valencia_valencia city_region x": {
+    "cityId": "5592", 
+    "regId": "203", 
+    "divId": "279"
+  }, 
+  "paoay_ilocos norte_region i": {
+    "cityId": "359", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "san antonio_nueva ecija_region iii": {
+    "cityId": "9329", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "morong_rizal_region iv-a": {
+    "cityId": "9242", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "palauig_zambales_region iii": {
+    "cityId": "1275", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "jolo (capital)_sulu_armm": {
+    "cityId": "7316", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "aliaga_nueva ecija_region iii": {
+    "cityId": "958", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "lian_batangas_region iv-a": {
+    "cityId": "2010", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "palo_leyte_region viii": {
+    "cityId": "4671", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "rosario_northern samar_region viii": {
+    "cityId": "9435", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "talacogon_agusan del sur_caraga": {
+    "cityId": "6870", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "oas_albay_region v": {
+    "cityId": "2911", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "famy_laguna_region iv-a": {
+    "cityId": "1912", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "ocampo_camarines sur_region v": {
+    "cityId": "3133", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "norala_south cotabato_region xii": {
+    "cityId": "6452", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "nasipit_agusan del norte_caraga": {
+    "cityId": "6920", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "laurel_batangas_region iv-a": {
+    "cityId": "2006", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "imus_imus city_region iv-a": {
+    "cityId": "1924", 
+    "regId": "196", 
+    "divId": "186"
+  }, 
+  "dinalupihan_bataan_region iii": {
+    "cityId": "1244", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "rosario_agusan del sur_caraga": {
+    "cityId": "9287", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "surigao city (capital)_surigao city_caraga": {
+    "cityId": "6825", 
+    "regId": "206", 
+    "divId": "294"
+  }, 
+  "pi\u00f1an (new pi\u00f1an)_zamboanga del norte_region ix": {
+    "cityId": "5272", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "alicia_zamboanga sibugay_region ix": {
+    "cityId": "9374", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "calauan_laguna_region iv-a": {
+    "cityId": "1879", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "sabtang_batanes_region ii": {
+    "cityId": "851", 
+    "regId": "193", 
+    "divId": "144"
+  }, 
+  "pandag_maguindanao i_armm": {
+    "cityId": "7276", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "tago_surigao del sur_caraga": {
+    "cityId": "6847", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "trinidad_bohol_region vii": {
+    "cityId": "4292", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "mapandan_pangasinan i, lingayen_region i": {
+    "cityId": "150", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "santa rita_samar (western samar)_region viii": {
+    "cityId": "9444", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "san gabriel_la union_region i": {
+    "cityId": "147", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "lagayan_abra_car": {
+    "cityId": "7756", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "baliangao_misamis occidental_region x": {
+    "cityId": "5586", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "magsaysay (linugos)_misamis oriental_region x": {
+    "cityId": "5649", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "puerto princesa city (capital)_puerto princesa city_region iv-b": {
+    "cityId": "2471", 
+    "regId": "197", 
+    "divId": "192"
+  }, 
+  "camaligan_camarines sur_region v": {
+    "cityId": "3004", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "san rafael_bulacan_region iii": {
+    "cityId": "1056", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "buenavista_marinduque_region iv-b": {
+    "cityId": "9355", 
+    "regId": "197", 
+    "divId": "190"
+  }, 
+  "san agustin_surigao del sur_caraga": {
+    "cityId": "9288", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "antequera_bohol_region vii": {
+    "cityId": "4050", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "iloilo city (capital)_iloilo city_region vi": {
+    "cityId": "3546", 
+    "regId": "199", 
+    "divId": "194"
+  }, 
+  "gitagum_misamis oriental_region x": {
+    "cityId": "5818", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "sigay_ilocos sur_region i": {
+    "cityId": "492", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "pangantucan_bukidnon_region x": {
+    "cityId": "5583", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "san isidro_northern samar_region viii": {
+    "cityId": "9438", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "santa cruz (capital)_laguna_region iv-a": {
+    "cityId": "1936", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "san lorenzo_guimaras_region vi": {
+    "cityId": "3698", 
+    "regId": "199", 
+    "divId": "212"
+  }, 
+  "sual_pangasinan i, lingayen_region i": {
+    "cityId": "399", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "lazi_siquijor_region vii": {
+    "cityId": "4135", 
+    "regId": "200", 
+    "divId": "225"
+  }, 
+  "glan_sarangani_region xii": {
+    "cityId": "6343", 
+    "regId": "205", 
+    "divId": "278"
+  }, 
+  "mabini_bohol_region vii": {
+    "cityId": "9420", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "sulat_eastern samar_region viii": {
+    "cityId": "5093", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "pagayawan (tatarikan)_lanao del sur - ii_armm": {
+    "cityId": "8704", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "asuncion (saug)_davao del norte_region xi": {
+    "cityId": "5987", 
+    "regId": "204", 
+    "divId": "265"
+  }, 
+  "sierra bullones_bohol_region vii": {
+    "cityId": "4092", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "initao_misamis oriental_region x": {
+    "cityId": "5575", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "san remigio_antique_region vi": {
+    "cityId": "3597", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "hinunangan_southern leyte_region viii": {
+    "cityId": "4759", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "calbayog city_calbayog city_region viii": {
+    "cityId": "4747", 
+    "regId": "201", 
+    "divId": "241"
+  }, 
+  "calamba_misamis occidental_region x": {
+    "cityId": "5626", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "salug_zamboanga del norte_region ix": {
+    "cityId": "5199", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "bambang_nueva vizcaya_region ii": {
+    "cityId": "584", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "zaragoza_nueva ecija_region iii": {
+    "cityId": "1023", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "hadji muhtamad_basilan_armm": {
+    "cityId": "7355", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "mahatao_batanes_region ii": {
+    "cityId": "782", 
+    "regId": "193", 
+    "divId": "144"
+  }, 
+  "maribojoc_bohol_region vii": {
+    "cityId": "4101", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "san carlos city_san carlos city_region vi": {
+    "cityId": "9471", 
+    "regId": "199", 
+    "divId": "1544"
+  }, 
+  "banayoyo_ilocos sur_region i": {
+    "cityId": "152", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "lakewood_zamboanga del sur_region ix": {
+    "cityId": "5202", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "tagoloan_misamis oriental_region x": {
+    "cityId": "5636", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "bacolod_lanao del norte_region x": {
+    "cityId": "5598", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "tugaya_lanao del sur - ii_armm": {
+    "cityId": "8697", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "maria aurora_aurora_region iii": {
+    "cityId": "1024", 
+    "regId": "194", 
+    "divId": "153"
+  }, 
+  "esperanza_agusan del sur_caraga": {
+    "cityId": "9280", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "merida_leyte_region viii": {
+    "cityId": "4904", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "sablan_benguet_car": {
+    "cityId": "7766", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "naguilian_la union_region i": {
+    "cityId": "228", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "sumisip_basilan_armm": {
+    "cityId": "7491", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "tayug_pangasinan ii, binalonan_region i": {
+    "cityId": "8583", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "sugpon_ilocos sur_region i": {
+    "cityId": "505", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "sultan kudarat (nuling)_maguindanao ii_armm": {
+    "cityId": "7279", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "madrid_surigao del sur_caraga": {
+    "cityId": "7024", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "josefina_zamboanga del sur_region ix": {
+    "cityId": "5235", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "city of naga_city of naga, cebu_region vii": {
+    "cityId": "4007", 
+    "regId": "200", 
+    "divId": "220"
+  }, 
+  "shariff aguak (maganoy) (capital)_maguindanao i_armm": {
+    "cityId": "7362", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "hernani_eastern samar_region viii": {
+    "cityId": "5017", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "poona piagapo_lanao del norte_region x": {
+    "cityId": "5869", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "galimuyod_ilocos sur_region i": {
+    "cityId": "396", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "solsona_ilocos norte_region i": {
+    "cityId": "142", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "bubong_lanao del sur - i_armm": {
+    "cityId": "7294", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "sogod_cebu_region vii": {
+    "cityId": "4107", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "cabuyao_cabuyao city_region iv-a": {
+    "cityId": "1759", 
+    "regId": "196", 
+    "divId": "1535"
+  }, 
+  "paracelis_mt. province_car": {
+    "cityId": "7543", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "dinapigue_isabela_region ii": {
+    "cityId": "673", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "lope de vega_northern samar_region viii": {
+    "cityId": "4916", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "balatan_camarines sur_region v": {
+    "cityId": "3041", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "general mamerto natividad_nueva ecija_region iii": {
+    "cityId": "1184", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "mabitac_laguna_region iv-a": {
+    "cityId": "2058", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "taft_eastern samar_region viii": {
+    "cityId": "4937", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "socorro_oriental mindoro_region iv-b": {
+    "cityId": "2493", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "real_quezon_region iv-a": {
+    "cityId": "9232", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "manjuyod_negros oriental_region vii": {
+    "cityId": "8352", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "matanao_davao del sur_region xi": {
+    "cityId": "6001", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "tobias fornier (dao)_antique_region vi": {
+    "cityId": "3598", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "morong_bataan_region iii": {
+    "cityId": "1255", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "sultan naga dimaporo (karomatan)_lanao del norte_region x": {
+    "cityId": "5576", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "calinog_iloilo_region vi": {
+    "cityId": "3562", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "san fernando_masbate_region v": {
+    "cityId": "9386", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "malalag_davao del sur_region xi": {
+    "cityId": "6052", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "irosin_sorsogon_region v": {
+    "cityId": "3111", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "ternate_cavite_region iv-a": {
+    "cityId": "2400", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "pura_tarlac_region iii": {
+    "cityId": "1043", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "tacloban city (capital)_tacloban city_region viii": {
+    "cityId": "4672", 
+    "regId": "201", 
+    "divId": "233"
+  }, 
+  "santo domingo_ilocos sur_region i": {
+    "cityId": "350", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "tambulig_zamboanga del sur_region ix": {
+    "cityId": "5203", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "nueva era_ilocos norte_region i": {
+    "cityId": "112", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "capalonga_camarines norte_region v": {
+    "cityId": "3068", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "tabina_zamboanga del sur_region ix": {
+    "cityId": "5205", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "kitaotao_bukidnon_region x": {
+    "cityId": "5745", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "pualas_lanao del sur - ii_armm": {
+    "cityId": "8699", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "uson_masbate_region v": {
+    "cityId": "2962", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "city of san fernando (capital)_pampanga_region iii": {
+    "cityId": "9324", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "pakil_laguna_region iv-a": {
+    "cityId": "1981", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "pangil_laguna_region iv-a": {
+    "cityId": "1725", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "pili (capital)_camarines sur_region v": {
+    "cityId": "2877", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "patnanungan_quezon_region iv-a": {
+    "cityId": "9226", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "ballesteros_cagayan_region ii": {
+    "cityId": "582", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "tubigon_bohol_region vii": {
+    "cityId": "4032", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "pola_oriental mindoro_region iv-b": {
+    "cityId": "2461", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "santa praxedes_cagayan_region ii": {
+    "cityId": "911", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "san policarpo_eastern samar_region viii": {
+    "cityId": "4668", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "alangalang_leyte_region viii": {
+    "cityId": "4660", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "santa margarita_samar (western samar)_region viii": {
+    "cityId": "4779", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "cavinti_laguna_region iv-a": {
+    "cityId": "1787", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "kalawit_zamboanga del norte_region ix": {
+    "cityId": "5223", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "baggao_cagayan_region ii": {
+    "cityId": "551", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "lopez jaena_misamis occidental_region x": {
+    "cityId": "5787", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "leon_iloilo_region vi": {
+    "cityId": "3612", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "datu hoffer ampatuan_maguindanao i_armm": {
+    "cityId": "7350", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "city of cabadbaran_cabadbaran city_caraga": {
+    "cityId": "6884", 
+    "regId": "206", 
+    "divId": "305"
+  }, 
+  "valderrama_antique_region vi": {
+    "cityId": "3986", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "surallah_south cotabato_region xii": {
+    "cityId": "6400", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "bauko_mt. province_car": {
+    "cityId": "7524", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "bacarra_ilocos norte_region i": {
+    "cityId": "136", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "basey_samar (western samar)_region viii": {
+    "cityId": "4698", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "santo tomas_pangasinan ii, binalonan_region i": {
+    "cityId": "9314", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "balabac_palawan_region iv-b": {
+    "cityId": "2480", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "san pablo city_san pablo city_region iv-a": {
+    "cityId": "1856", 
+    "regId": "196", 
+    "divId": "182"
+  }, 
+  "mabini_batangas_region iv-a": {
+    "cityId": "9342", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "talalora_samar (western samar)_region viii": {
+    "cityId": "4861", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "pantukan_compostela valley_region xi": {
+    "cityId": "5986", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "angat_bulacan_region iii": {
+    "cityId": "968", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "poona bayabao (gata)_lanao del sur - i_armm": {
+    "cityId": "7451", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "sogod_southern leyte_region viii": {
+    "cityId": "9445", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "loreto_agusan del sur_caraga": {
+    "cityId": "6864", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "cawayan_masbate_region v": {
+    "cityId": "3056", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "luna_isabela_region ii": {
+    "cityId": "9318", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "sultan sa barongis (lambayong)_maguindanao i_armm": {
+    "cityId": "7274", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "aroroy_masbate_region v": {
+    "cityId": "2880", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "concepcion_tarlac_region iii": {
+    "cityId": "965", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "toboso_negros occidental_region vi": {
+    "cityId": "8130", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "city of talisay_talisay city_region vii": {
+    "cityId": "4094", 
+    "regId": "200", 
+    "divId": "230"
+  }, 
+  "kapai_lanao del sur - i_armm": {
+    "cityId": "7369", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "city of isabela (capital)_isabela city_region ix": {
+    "cityId": "5213", 
+    "regId": "202", 
+    "divId": "259"
+  }, 
+  "allacapan_cagayan_region ii": {
+    "cityId": "561", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "buhi_camarines sur_region v": {
+    "cityId": "2971", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "bocaue_bulacan_region iii": {
+    "cityId": "1020", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "marogong_lanao del sur - ii_armm": {
+    "cityId": "8706", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "narvacan_ilocos sur_region i": {
+    "cityId": "312", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "bagac_bataan_region iii": {
+    "cityId": "988", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "san miguel_surigao del sur_caraga": {
+    "cityId": "9294", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "general nakar_quezon_region iv-a": {
+    "cityId": "9212", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "ermita_manila_ncr": {
+    "cityId": "7942", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "pagadian city (capital)_pagadian city_region ix": {
+    "cityId": "5241", 
+    "regId": "202", 
+    "divId": "261"
+  }, 
+  "santa rita_pampanga_region iii": {
+    "cityId": "960", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "ubay_bohol_region vii": {
+    "cityId": "4064", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "buenavista_agusan del norte_caraga": {
+    "cityId": "9169", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "la libertad_negros oriental_region vii": {
+    "cityId": "9419", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "oton_iloilo_region vi": {
+    "cityId": "3609", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "mabinay_negros oriental_region vii": {
+    "cityId": "8150", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "sibutu_tawi-tawi_armm": {
+    "cityId": "7382", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "maasim_sarangani_region xii": {
+    "cityId": "6344", 
+    "regId": "205", 
+    "divId": "278"
+  }, 
+  "banga_aklan_region vi": {
+    "cityId": "3556", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "baler (capital)_aurora_region iii": {
+    "cityId": "982", 
+    "regId": "194", 
+    "divId": "153"
+  }, 
+  "davao city_davao city_region xi": {
+    "cityId": "5977", 
+    "regId": "204", 
+    "divId": "266"
+  }, 
+  "kalamansig_sultan kudarat_region xii": {
+    "cityId": "6427", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "libertad_antique_region vi": {
+    "cityId": "3793", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "nagbukel_ilocos sur_region i": {
+    "cityId": "378", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "bacungan (leon t. postigo)_zamboanga del norte_region ix": {
+    "cityId": "5200", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "jaro_leyte_region viii": {
+    "cityId": "4659", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "quezon_palawan_region iv-b": {
+    "cityId": "9360", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "alaminos_laguna_region iv-a": {
+    "cityId": "1686", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "city of para\u00f1aque_paranaque city_ncr": {
+    "cityId": "7834", 
+    "regId": "209", 
+    "divId": "324"
+  }, 
+  "tanay_rizal_region iv-a": {
+    "cityId": "1688", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "alimodian_iloilo_region vi": {
+    "cityId": "3549", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "barobo_surigao del sur_caraga": {
+    "cityId": "6855", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "tiaong_quezon_region iv-a": {
+    "cityId": "9240", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "dimasalang_masbate_region v": {
+    "cityId": "2979", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "don victoriano chiongbian_misamis occidental_region x": {
+    "cityId": "5675", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "santa cruz_ilocos sur_region i": {
+    "cityId": "122", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "general emilio aguinaldo_cavite_region iv-a": {
+    "cityId": "1923", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "quiapo_manila_ncr": {
+    "cityId": "8038", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "lucena city (capital)_quezon_region iv-a": {
+    "cityId": "9219", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "dupax del norte_nueva vizcaya_region ii": {
+    "cityId": "596", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "abra de ilog_occidental mindoro_region iv-b": {
+    "cityId": "2444", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "libjo (albor)_dinagat island_caraga": {
+    "cityId": "6823", 
+    "regId": "206", 
+    "divId": "291"
+  }, 
+  "hingyon_ifugao_car": {
+    "cityId": "7664", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "kabacan_north cotabato_region xii": {
+    "cityId": "6349", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "santa fe_nueva vizcaya_region ii": {
+    "cityId": "635", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "butuan city (capital)_butuan city_caraga": {
+    "cityId": "6821", 
+    "regId": "206", 
+    "divId": "289"
+  }, 
+  "daguioman_abra_car": {
+    "cityId": "7616", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "laak (san vicente)_compostela valley_region xi": {
+    "cityId": "6071", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "noveleta_cavite_region iv-a": {
+    "cityId": "2122", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "datu anggal midtimbang_maguindanao i_armm": {
+    "cityId": "9117", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "calanogas_lanao del sur - ii_armm": {
+    "cityId": "8688", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "linamon_lanao del norte_region x": {
+    "cityId": "5772", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "city of bayugan_bayugan city_caraga": {
+    "cityId": "6859", 
+    "regId": "206", 
+    "divId": "300"
+  }, 
+  "atimonan_quezon_region iv-a": {
+    "cityId": "9201", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "pontevedra_capiz_region vi": {
+    "cityId": "3740", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "mataasnakahoy_batangas_region iv-a": {
+    "cityId": "1752", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "compostela_compostela valley_region xi": {
+    "cityId": "9462", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "tigbao_zamboanga del sur_region ix": {
+    "cityId": "5195", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "sudipen_la union_region i": {
+    "cityId": "283", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "santa rosa_nueva ecija_region iii": {
+    "cityId": "1301", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "atok_benguet_car": {
+    "cityId": "7550", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "calayan_cagayan_region ii": {
+    "cityId": "575", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "barotac nuevo_iloilo_region vi": {
+    "cityId": "3601", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "malita_davao occidental_region xi": {
+    "cityId": "5990", 
+    "regId": "204", 
+    "divId": "1536"
+  }, 
+  "licuan-baay (licuan)_abra_car": {
+    "cityId": "7552", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "kitcharao_agusan del norte_caraga": {
+    "cityId": "6972", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "carigara_leyte_region viii": {
+    "cityId": "4766", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "pintuyan_southern leyte_region viii": {
+    "cityId": "5026", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "pastrana_leyte_region viii": {
+    "cityId": "4872", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "alubijid_misamis oriental_region x": {
+    "cityId": "5574", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "capul_northern samar_region viii": {
+    "cityId": "4763", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "padre garcia_batangas_region iv-a": {
+    "cityId": "1786", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "baungon_bukidnon_region x": {
+    "cityId": "5594", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "catubig_northern samar_region viii": {
+    "cityId": "4773", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "city of escalante_escalante city_region vi": {
+    "cityId": "8183", 
+    "regId": "199", 
+    "divId": "342"
+  }, 
+  "balabagan_lanao del sur - ii_armm": {
+    "cityId": "8695", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "toledo city_toledo city_region vii": {
+    "cityId": "4021", 
+    "regId": "200", 
+    "divId": "222"
+  }, 
+  "kolambugan_lanao del norte_region x": {
+    "cityId": "5663", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "pamplona_tanjay city_region vii": {
+    "cityId": "9421", 
+    "regId": "200", 
+    "divId": "333"
+  }, 
+  "tuba_benguet_car": {
+    "cityId": "7645", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "panglima sugala (balimbing) (capital)_tawi-tawi_armm": {
+    "cityId": "7258", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "san mateo_rizal_region iv-a": {
+    "cityId": "9188", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "baleno_masbate_region v": {
+    "cityId": "2879", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "magallanes_sorsogon_region v": {
+    "cityId": "2902", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "abulug_cagayan_region ii": {
+    "cityId": "545", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "kadingilan_bukidnon_region x": {
+    "cityId": "5886", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "manticao_misamis oriental_region x": {
+    "cityId": "5620", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "science city of mu\u00f1oz_munoz science city_region iii": {
+    "cityId": "952", 
+    "regId": "194", 
+    "divId": "185"
+  }, 
+  "sarrat_ilocos norte_region i": {
+    "cityId": "405", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "la carlota city_la carlota city_region vi": {
+    "cityId": "8251", 
+    "regId": "199", 
+    "divId": "344"
+  }, 
+  "dingle_iloilo_region vi": {
+    "cityId": "3691", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "laoac_pangasinan ii, binalonan_region i": {
+    "cityId": "8579", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "palimbang_sultan kudarat_region xii": {
+    "cityId": "6360", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "city of tandag (capital)_tandag city_caraga": {
+    "cityId": "6873", 
+    "regId": "206", 
+    "divId": "304"
+  }, 
+  "bacacay_albay_region v": {
+    "cityId": "2952", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "albuera_leyte_region viii": {
+    "cityId": "4690", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "roxas_palawan_region iv-b": {
+    "cityId": "9362", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "alcala_pangasinan ii, binalonan_region i": {
+    "cityId": "9304", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "lantapan_bukidnon_region x": {
+    "cityId": "5608", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "san fabian_pangasinan ii, binalonan_region i": {
+    "cityId": "8571", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "buluan_maguindanao i_armm": {
+    "cityId": "7275", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "manaoag_pangasinan ii, binalonan_region i": {
+    "cityId": "8573", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "caluya_antique_region vi": {
+    "cityId": "3647", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "angono_rizal_region iv-a": {
+    "cityId": "1700", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "pata_sulu_armm": {
+    "cityId": "7445", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "talibon_bohol_region vii": {
+    "cityId": "4126", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "kalayaan_palawan_region iv-b": {
+    "cityId": "9357", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "siocon_zamboanga del norte_region ix": {
+    "cityId": "5250", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "balete_aklan_region vi": {
+    "cityId": "9393", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "pangutaran_sulu_armm": {
+    "cityId": "7438", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "patikul_sulu_armm": {
+    "cityId": "7387", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "sagada_mt. province_car": {
+    "cityId": "7542", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "titay_zamboanga sibugay_region ix": {
+    "cityId": "5355", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "san isidro_bohol_region vii": {
+    "cityId": "9425", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "santa cruz_zambales_region iii": {
+    "cityId": "9335", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "dumaran_palawan_region iv-b": {
+    "cityId": "2472", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "talaingod_davao del norte_region xi": {
+    "cityId": "6024", 
+    "regId": "204", 
+    "divId": "265"
+  }, 
+  "sen. ninoy aquino_sultan kudarat_region xii": {
+    "cityId": "6387", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "san enrique_iloilo_region vi": {
+    "cityId": "3692", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "pinili_ilocos norte_region i": {
+    "cityId": "428", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "city of bayawan (tulong)_bayawan city_region vii": {
+    "cityId": "8120", 
+    "regId": "200", 
+    "divId": "328"
+  }, 
+  "castilla_sorsogon_region v": {
+    "cityId": "2905", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "sevilla_bohol_region vii": {
+    "cityId": "4062", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "kananga_leyte_region viii": {
+    "cityId": "4879", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "marawi city_marawi city_armm": {
+    "cityId": "7249", 
+    "regId": "207", 
+    "divId": "295"
+  }, 
+  "bonifacio_misamis occidental_region x": {
+    "cityId": "5606", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "salvador benedicto_negros occidental_region vi": {
+    "cityId": "8507", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "salay_misamis oriental_region x": {
+    "cityId": "5572", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "santa catalina_negros oriental_region vii": {
+    "cityId": "9430", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "pandacan_manila_ncr": {
+    "cityId": "9138", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "leyte_leyte_region viii": {
+    "cityId": "4871", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "president roxas_north cotabato_region xii": {
+    "cityId": "9162", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "calabanga_camarines sur_region v": {
+    "cityId": "3000", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "banna (espiritu)_ilocos norte_region i": {
+    "cityId": "159", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "marabut_samar (western samar)_region viii": {
+    "cityId": "4944", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "city of san fernando (capital)_san fernando city_region i": {
+    "cityId": "155", 
+    "regId": "192", 
+    "divId": "139"
+  }, 
+  "siayan_zamboanga del norte_region ix": {
+    "cityId": "5276", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "villaverde_nueva vizcaya_region ii": {
+    "cityId": "601", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "balamban_cebu_region vii": {
+    "cityId": "4087", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "kawit_cavite_region iv-a": {
+    "cityId": "1765", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "bacnotan_la union_region i": {
+    "cityId": "139", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "plaridel_quezon_region iv-a": {
+    "cityId": "9229", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "dulag_leyte_region viii": {
+    "cityId": "4733", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "bani_pangasinan i, lingayen_region i": {
+    "cityId": "157", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "malabuyoc_cebu_region vii": {
+    "cityId": "4188", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "cordova_cebu_region vii": {
+    "cityId": "4211", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "maimbung_sulu_armm": {
+    "cityId": "7363", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "baliguian_zamboanga del norte_region ix": {
+    "cityId": "5192", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "san vicente_camarines norte_region v": {
+    "cityId": "9390", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "rajah buayan_maguindanao i_armm": {
+    "cityId": "9121", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "tarangnan_samar (western samar)_region viii": {
+    "cityId": "4930", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "aborlan_palawan_region iv-b": {
+    "cityId": "2443", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "lumba-bayabao (maguing)_lanao del sur - i_armm": {
+    "cityId": "7244", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "libon_albay_region v": {
+    "cityId": "2951", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "altavas_aklan_region vi": {
+    "cityId": "3567", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "jovellar_albay_region v": {
+    "cityId": "3153", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "taytay_rizal_region iv-a": {
+    "cityId": "1703", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "panaon_misamis occidental_region x": {
+    "cityId": "5861", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "carmen_surigao del sur_caraga": {
+    "cityId": "9278", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "tibiao_antique_region vi": {
+    "cityId": "3950", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "columbio_sultan kudarat_region xii": {
+    "cityId": "6403", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "damulog_bukidnon_region x": {
+    "cityId": "5788", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "burgos_la union_region i": {
+    "cityId": "9305", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "hinoba-an (asia)_negros occidental_region vi": {
+    "cityId": "8172", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "pinukpuk_kalinga_car": {
+    "cityId": "7536", 
+    "regId": "208", 
+    "divId": "311"
+  }, 
+  "divilacan_isabela_region ii": {
+    "cityId": "680", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "looc_romblon_region iv-b": {
+    "cityId": "2512", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "calauag_quezon_region iv-a": {
+    "cityId": "9205", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "balayan_batangas_region iv-a": {
+    "cityId": "1720", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "anda_bohol_region vii": {
+    "cityId": "9414", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "dapa_siargao_caraga": {
+    "cityId": "6915", 
+    "regId": "206", 
+    "divId": "292"
+  }, 
+  "caoayan_ilocos sur_region i": {
+    "cityId": "218", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "bacolod-kalawi (bacolod grande)_lanao del sur - ii_armm": {
+    "cityId": "8694", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "uyugan_batanes_region ii": {
+    "cityId": "589", 
+    "regId": "193", 
+    "divId": "144"
+  }, 
+  "leganes_iloilo_region vi": {
+    "cityId": "3781", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "quezon_nueva vizcaya_region ii": {
+    "cityId": "9320", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "tayum_abra_car": {
+    "cityId": "7649", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "cagayan de oro city (capital)_cagayan de oro city_region x": {
+    "cityId": "5569", 
+    "regId": "203", 
+    "divId": "258"
+  }, 
+  "pamplona_cagayan_region ii": {
+    "cityId": "598", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "bongabong_oriental mindoro_region iv-b": {
+    "cityId": "2490", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "santo tomas_pampanga_region iii": {
+    "cityId": "9338", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "san guillermo_isabela_region ii": {
+    "cityId": "651", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "talipao_sulu_armm": {
+    "cityId": "7497", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "bangui_ilocos norte_region i": {
+    "cityId": "153", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "bunawan_agusan del sur_caraga": {
+    "cityId": "6820", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "claveria_cagayan_region ii": {
+    "cityId": "648", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "nampicuan_nueva ecija_region iii": {
+    "cityId": "1367", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "catarman (capital)_northern samar_region viii": {
+    "cityId": "4770", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "naawan_misamis oriental_region x": {
+    "cityId": "5817", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "calape_bohol_region vii": {
+    "cityId": "4079", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "naga city_naga city_region v": {
+    "cityId": "2935", 
+    "regId": "198", 
+    "divId": "208"
+  }, 
+  "pasuquin_ilocos norte_region i": {
+    "cityId": "254", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "santo tomas_isabela_region ii": {
+    "cityId": "9322", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "magallanes_cavite_region iv-a": {
+    "cityId": "1754", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "luna_la union_region i": {
+    "cityId": "189", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "maitum_sarangani_region xii": {
+    "cityId": "6475", 
+    "regId": "205", 
+    "divId": "278"
+  }, 
+  "biliran_biliran_region viii": {
+    "cityId": "4708", 
+    "regId": "201", 
+    "divId": "229"
+  }, 
+  "general macarthur_eastern samar_region viii": {
+    "cityId": "4826", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "city of marikina_marikina city_ncr": {
+    "cityId": "7846", 
+    "regId": "209", 
+    "divId": "331"
+  }, 
+  "cateel_davao oriental_region xi": {
+    "cityId": "6036", 
+    "regId": "204", 
+    "divId": "269"
+  }, 
+  "capoocan_leyte_region viii": {
+    "cityId": "4680", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "minalin_pampanga_region iii": {
+    "cityId": "1047", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "godod_zamboanga del norte_region ix": {
+    "cityId": "5303", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "datu saudi-ampatuan_maguindanao i_armm": {
+    "cityId": "7302", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "ivisan_capiz_region vi": {
+    "cityId": "3605", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "mangudadatu_maguindanao i_armm": {
+    "cityId": "7368", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "saguiaran_lanao del sur - i_armm": {
+    "cityId": "7360", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "sibonga_cebu_region vii": {
+    "cityId": "4312", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "san manuel_tarlac_region iii": {
+    "cityId": "9333", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "manukan_zamboanga del norte_region ix": {
+    "cityId": "5217", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "asipulo_ifugao_car": {
+    "cityId": "7549", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "new corella_davao del norte_region xi": {
+    "cityId": "6142", 
+    "regId": "204", 
+    "divId": "265"
+  }, 
+  "cagayancillo_palawan_region iv-b": {
+    "cityId": "2530", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "kalayaan_laguna_region iv-a": {
+    "cityId": "1739", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "daet (capital)_camarines norte_region v": {
+    "cityId": "2873", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "nueva valencia_guimaras_region vi": {
+    "cityId": "3635", 
+    "regId": "199", 
+    "divId": "212"
+  }, 
+  "loay_bohol_region vii": {
+    "cityId": "4290", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "dangcagan_bukidnon_region x": {
+    "cityId": "5660", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "naga_zamboanga sibugay_region ix": {
+    "cityId": "5204", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "batangas city (capital)_batangas_region iv-a": {
+    "cityId": "9339", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "kabasalan_zamboanga sibugay_region ix": {
+    "cityId": "5296", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "bataraza_palawan_region iv-b": {
+    "cityId": "2455", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "datu paglas_maguindanao i_armm": {
+    "cityId": "7297", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "gigmoto_catanduanes_region v": {
+    "cityId": "3085", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "san enrique_negros occidental_region vi": {
+    "cityId": "9408", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "san francisco_southern leyte_region viii": {
+    "cityId": "9437", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "santa maria (imelda)_romblon_region iv-b": {
+    "cityId": "2815", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "orani_bataan_region iii": {
+    "cityId": "1389", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "trento_agusan del sur_caraga": {
+    "cityId": "6911", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "candelaria_zambales_region iii": {
+    "cityId": "1091", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "silay city_silay city_region vi": {
+    "cityId": "8180", 
+    "regId": "199", 
+    "divId": "341"
+  }, 
+  "balangiga_eastern samar_region viii": {
+    "cityId": "5109", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "pantabangan_nueva ecija_region iii": {
+    "cityId": "1085", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "batuan_masbate_region v": {
+    "cityId": "2890", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "san francisco (aurora)_quezon_region iv-a": {
+    "cityId": "9236", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "aguinaldo_ifugao_car": {
+    "cityId": "7533", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "placer_masbate_region v": {
+    "cityId": "2893", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "mahaplag_leyte_region viii": {
+    "cityId": "4927", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "rosario_batangas_region iv-a": {
+    "cityId": "9345", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "pinamungahan_cebu_region vii": {
+    "cityId": "4012", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "asturias_cebu_region vii": {
+    "cityId": "4359", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "kiblawan_davao del sur_region xi": {
+    "cityId": "6098", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "rizal_laguna_region iv-a": {
+    "cityId": "9343", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "liliw_laguna_region iv-a": {
+    "cityId": "2014", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "guinsiliban_camiguin_region x": {
+    "cityId": "5691", 
+    "regId": "203", 
+    "divId": "257"
+  }, 
+  "hermosa_bataan_region iii": {
+    "cityId": "1001", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "tabuelan_cebu_region vii": {
+    "cityId": "4310", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "milaor_camarines sur_region v": {
+    "cityId": "3270", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "bansud_oriental mindoro_region iv-b": {
+    "cityId": "2451", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "vallehermoso_guihulngan city_region vii": {
+    "cityId": "8299", 
+    "regId": "200", 
+    "divId": "345"
+  }, 
+  "jose abad santos (trinidad)_davao occidental_region xi": {
+    "cityId": "5998", 
+    "regId": "204", 
+    "divId": "1536"
+  }, 
+  "magdiwang_romblon_region iv-b": {
+    "cityId": "2449", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "bamban_tarlac_region iii": {
+    "cityId": "1141", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "laur_nueva ecija_region iii": {
+    "cityId": "1228", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "city of kabankalan_kabankalan city_region vi": {
+    "cityId": "8159", 
+    "regId": "199", 
+    "divId": "339"
+  }, 
+  "carmen_agusan del norte_caraga": {
+    "cityId": "9277", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "echague_isabela_region ii": {
+    "cityId": "685", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "pandami_sulu_armm": {
+    "cityId": "7434", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "abuyog_leyte_region viii": {
+    "cityId": "4658", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "tabogon_cebu_region vii": {
+    "cityId": "4217", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "tagaytay city_cavite_region iv-a": {
+    "cityId": "1852", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "montevista_compostela valley_region xi": {
+    "cityId": "6198", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "iriga city_iriga city_region v": {
+    "cityId": "3049", 
+    "regId": "198", 
+    "divId": "204"
+  }, 
+  "boliney_abra_car": {
+    "cityId": "7599", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "san esteban_ilocos sur_region i": {
+    "cityId": "458", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "cajidiocan_romblon_region iv-b": {
+    "cityId": "2531", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "balagtas (bigaa)_bulacan_region iii": {
+    "cityId": "991", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "dilasag_aurora_region iii": {
+    "cityId": "1145", 
+    "regId": "194", 
+    "divId": "153"
+  }, 
+  "janiuay_iloilo_region vi": {
+    "cityId": "3547", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "hinatuan_surigao del sur_caraga": {
+    "cityId": "6846", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "hinigaran_negros occidental_region vi": {
+    "cityId": "8276", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "aleosan_north cotabato_region xii": {
+    "cityId": "6339", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "cabanglasan_bukidnon_region x": {
+    "cityId": "5621", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "margosatubig_zamboanga del sur_region ix": {
+    "cityId": "5210", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "shariff saydona mustapha_maguindanao i_armm": {
+    "cityId": "9123", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "sulop_davao del sur_region xi": {
+    "cityId": "6092", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "ronda_cebu_region vii": {
+    "cityId": "4337", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "pamplona_camarines sur_region v": {
+    "cityId": "9383", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "pio duran_albay_region v": {
+    "cityId": "2872", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "libertad_misamis oriental_region x": {
+    "cityId": "9451", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "barlig_mt. province_car": {
+    "cityId": "7582", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "ipil_zamboanga sibugay_region ix": {
+    "cityId": "5198", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "alcantara_cebu_region vii": {
+    "cityId": "9412", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "la paz_abra_car": {
+    "cityId": "9270", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "city of maasin (capital)_maasin city_region viii": {
+    "cityId": "8665", 
+    "regId": "201", 
+    "divId": "236"
+  }, 
+  "tupi_south cotabato_region xii": {
+    "cityId": "6398", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "hilongos_leyte_region viii": {
+    "cityId": "4727", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "calatrava_romblon_region iv-b": {
+    "cityId": "2535", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "balingasag_misamis oriental_region x": {
+    "cityId": "5587", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "datu montawal (pagagawan)_maguindanao i_armm": {
+    "cityId": "7514", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "san fernando_camarines sur_region v": {
+    "cityId": "9385", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "simunul_tawi-tawi_armm": {
+    "cityId": "7318", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "pililla_rizal_region iv-a": {
+    "cityId": "1783", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "jimenez_misamis occidental_region x": {
+    "cityId": "5633", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "obando_bulacan_region iii": {
+    "cityId": "1052", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "opol_misamis oriental_region x": {
+    "cityId": "5584", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "magpet_north cotabato_region xii": {
+    "cityId": "6340", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "pikit_north cotabato_region xii": {
+    "cityId": "6424", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "jaen_nueva ecija_region iii": {
+    "cityId": "1237", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "dapitan city_dapitan city_region ix": {
+    "cityId": "5196", 
+    "regId": "202", 
+    "divId": "247"
+  }, 
+  "alfonso_cavite_region iv-a": {
+    "cityId": "1689", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "dumalinao_zamboanga del sur_region ix": {
+    "cityId": "5230", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "liloan_cebu_region vii": {
+    "cityId": "4017", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "santa barbara_iloilo_region vi": {
+    "cityId": "9411", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "sison_pangasinan ii, binalonan_region i": {
+    "cityId": "9315", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "mina_iloilo_region vi": {
+    "cityId": "3843", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "hindang_leyte_region viii": {
+    "cityId": "4719", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "piat_cagayan_region ii": {
+    "cityId": "827", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "paluan_occidental mindoro_region iv-b": {
+    "cityId": "2734", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "indanan_sulu_armm": {
+    "cityId": "7324", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "unisan_quezon_region iv-a": {
+    "cityId": "9241", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "los ba\u00f1os_laguna_region iv-a": {
+    "cityId": "9180", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "kapangan_benguet_car": {
+    "cityId": "7651", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "gloria_oriental mindoro_region iv-b": {
+    "cityId": "2517", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "city of digos (capital)_davao del sur_region xi": {
+    "cityId": "9460", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "city of himamaylan_himamaylan city_region vi": {
+    "cityId": "8123", 
+    "regId": "199", 
+    "divId": "1538"
+  }, 
+  "tubo_abra_car": {
+    "cityId": "7637", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "larena_siquijor_region vii": {
+    "cityId": "4054", 
+    "regId": "200", 
+    "divId": "225"
+  }, 
+  "city of el salvador_el salvador_region x": {
+    "cityId": "5644", 
+    "regId": "203", 
+    "divId": "260"
+  }, 
+  "aurora_zamboanga del sur_region ix": {
+    "cityId": "9163", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "paracale_camarines norte_region v": {
+    "cityId": "2928", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "almagro_samar (western samar)_region viii": {
+    "cityId": "4666", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "juban_sorsogon_region v": {
+    "cityId": "2944", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "carrascal_surigao del sur_caraga": {
+    "cityId": "6813", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "hagonoy_bulacan_region iii": {
+    "cityId": "1231", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "candoni_negros occidental_region vi": {
+    "cityId": "8215", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "guinobatan_albay_region v": {
+    "cityId": "2925", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "datu odin sinsuat (dinaig)_maguindanao ii_armm": {
+    "cityId": "7256", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "santa maria_isabela_region ii": {
+    "cityId": "9321", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "munai_lanao del norte_region x": {
+    "cityId": "5843", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "dagohoy_bohol_region vii": {
+    "cityId": "4219", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "bacoor_bacoor city_region iv-a": {
+    "cityId": "1711", 
+    "regId": "196", 
+    "divId": "172"
+  }, 
+  "tublay_benguet_car": {
+    "cityId": "7816", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "alfonso casta\u00f1eda_nueva vizcaya_region ii": {
+    "cityId": "547", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "jiabong_samar (western samar)_region viii": {
+    "cityId": "4769", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "baao_camarines sur_region v": {
+    "cityId": "2871", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "city of borongan (capital)_borongan city_region viii": {
+    "cityId": "4706", 
+    "regId": "201", 
+    "divId": "239"
+  }, 
+  "loreto_dinagat island_caraga": {
+    "cityId": "9283", 
+    "regId": "206", 
+    "divId": "291"
+  }, 
+  "santa ana_pampanga_region iii": {
+    "cityId": "9334", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "talayan_maguindanao i_armm": {
+    "cityId": "7496", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "president quirino_sultan kudarat_region xii": {
+    "cityId": "6399", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "santander_cebu_region vii": {
+    "cityId": "4549", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "valladolid_negros occidental_region vi": {
+    "cityId": "8516", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "aurora_isabela_region ii": {
+    "cityId": "688", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "cordon_isabela_region ii": {
+    "cityId": "618", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "san miguel_bulacan_region iii": {
+    "cityId": "1055", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "baco_oriental mindoro_region iv-b": {
+    "cityId": "2457", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "olutanga_zamboanga sibugay_region ix": {
+    "cityId": "5435", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "dubai_united arab emirates_pso": {
+    "cityId": "9247", 
+    "regId": "211", 
+    "divId": "1539"
+  }, 
+  "makilala_north cotabato_region xii": {
+    "cityId": "6377", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "mulondo_lanao del sur - i_armm": {
+    "cityId": "7278", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "maria_siquijor_region vii": {
+    "cityId": "4143", 
+    "regId": "200", 
+    "divId": "225"
+  }, 
+  "new washington_aklan_region vi": {
+    "cityId": "3654", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "mamburao (capital)_occidental mindoro_region iv-b": {
+    "cityId": "2718", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "motiong_samar (western samar)_region viii": {
+    "cityId": "4717", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "pila_laguna_region iv-a": {
+    "cityId": "1891", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "mainit_surigao del norte_caraga": {
+    "cityId": "6960", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "jeddah_kingdom of saudi arabia_pso": {
+    "cityId": "9254", 
+    "regId": "211", 
+    "divId": "1543"
+  }, 
+  "pilar_cebu_region vii": {
+    "cityId": "9423", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "sipocot_camarines sur_region v": {
+    "cityId": "2883", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "alburquerque_bohol_region vii": {
+    "cityId": "4540", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "bulan_sorsogon_region v": {
+    "cityId": "2931", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "tinambac_camarines sur_region v": {
+    "cityId": "2869", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "malangas_zamboanga sibugay_region ix": {
+    "cityId": "5252", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "malabang_lanao del sur - ii_armm": {
+    "cityId": "8703", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "ormoc city_ormoc city_region viii": {
+    "cityId": "4737", 
+    "regId": "201", 
+    "divId": "240"
+  }, 
+  "banate_iloilo_region vi": {
+    "cityId": "3595", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "pres. manuel a. roxas_zamboanga del norte_region ix": {
+    "cityId": "5283", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "tamparan_lanao del sur - i_armm": {
+    "cityId": "7298", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "pontevedra_negros occidental_region vi": {
+    "cityId": "9406", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "natonin_mt. province_car": {
+    "cityId": "7575", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "magsingal_ilocos sur_region i": {
+    "cityId": "357", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "santa josefa_agusan del sur_caraga": {
+    "cityId": "6832", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "prosperidad (capital)_agusan del sur_caraga": {
+    "cityId": "6819", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "san isidro_nueva ecija_region iii": {
+    "cityId": "9331", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "ramon magsaysay (liargo)_zamboanga del sur_region ix": {
+    "cityId": "5293", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "floridablanca_pampanga_region iii": {
+    "cityId": "1016", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "bulalacao (san pedro)_oriental mindoro_region iv-b": {
+    "cityId": "2494", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "kabayan_benguet_car": {
+    "cityId": "7529", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "bagamanoc_catanduanes_region v": {
+    "cityId": "2901", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "jomalig_quezon_region iv-a": {
+    "cityId": "9216", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "san jose de buan_samar (western samar)_region viii": {
+    "cityId": "5079", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "olongapo city_olongapo city_region iii": {
+    "cityId": "1012", 
+    "regId": "194", 
+    "divId": "171"
+  }, 
+  "lugait_misamis oriental_region x": {
+    "cityId": "5779", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "oras_eastern samar_region viii": {
+    "cityId": "4792", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "bontoc_southern leyte_region viii": {
+    "cityId": "4718", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "city of antipolo_antipolo city_region iv-a": {
+    "cityId": "8610", 
+    "regId": "196", 
+    "divId": "163"
+  }, 
+  "balete_batangas_region iv-a": {
+    "cityId": "1723", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "santa cruz_marinduque_region iv-b": {
+    "cityId": "9370", 
+    "regId": "197", 
+    "divId": "190"
+  }, 
+  "maco_compostela valley_region xi": {
+    "cityId": "5981", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "sadanga_mt. province_car": {
+    "cityId": "7587", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "sapang dalaga_misamis occidental_region x": {
+    "cityId": "5599", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "san teodoro_oriental mindoro_region iv-b": {
+    "cityId": "2586", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "cabusao_camarines sur_region v": {
+    "cityId": "2921", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "santiago_agusan del norte_caraga": {
+    "cityId": "9295", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "cabatuan_iloilo_region vi": {
+    "cityId": "9395", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "buadiposo-buntong_lanao del sur - i_armm": {
+    "cityId": "7240", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "jones_isabela_region ii": {
+    "cityId": "548", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "northern kabuntalan_maguindanao ii_armm": {
+    "cityId": "7288", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "kasibu_nueva vizcaya_region ii": {
+    "cityId": "698", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "city of victorias_negros occidental_region vi": {
+    "cityId": "8162", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "san lorenzo ruiz (imelda)_camarines norte_region v": {
+    "cityId": "3405", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "prieto diaz_sorsogon_region v": {
+    "cityId": "3002", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "kabugao (capital)_apayao_car": {
+    "cityId": "7669", 
+    "regId": "208", 
+    "divId": "312"
+  }, 
+  "gamu_isabela_region ii": {
+    "cityId": "708", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "esperanza_masbate_region v": {
+    "cityId": "2876", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "carmen_davao del norte_region xi": {
+    "cityId": "9459", 
+    "regId": "204", 
+    "divId": "265"
+  }, 
+  "sallapadan_abra_car": {
+    "cityId": "7523", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "kibawe_bukidnon_region x": {
+    "cityId": "5735", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "concepcion_romblon_region iv-b": {
+    "cityId": "9356", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "nabua_camarines sur_region v": {
+    "cityId": "3160", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "san narciso_quezon_region iv-a": {
+    "cityId": "9237", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "rizal_nueva ecija_region iii": {
+    "cityId": "9328", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "san mariano_isabela_region ii": {
+    "cityId": "557", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "kiangan_ifugao_car": {
+    "cityId": "7680", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "san juan_siquijor_region vii": {
+    "cityId": "9427", 
+    "regId": "200", 
+    "divId": "225"
+  }, 
+  "silvino lobos_northern samar_region viii": {
+    "cityId": "5102", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "lumban_laguna_region iv-a": {
+    "cityId": "2046", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "matanog_maguindanao ii_armm": {
+    "cityId": "7322", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "carmen_cebu_region vii": {
+    "cityId": "9416", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "bansalan_davao del sur_region xi": {
+    "cityId": "6138", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "cebu city (capital)_cebu city_region vii": {
+    "cityId": "3997", 
+    "regId": "200", 
+    "divId": "219"
+  }, 
+  "nunungan_lanao del norte_region x": {
+    "cityId": "5850", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "borbon_cebu_region vii": {
+    "cityId": "4085", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "minalabac_camarines sur_region v": {
+    "cityId": "2888", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "mobo_masbate_region v": {
+    "cityId": "3048", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "barili_cebu_region vii": {
+    "cityId": "4035", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "san juan_la union_region i": {
+    "cityId": "468", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "san fernando_cebu_region vii": {
+    "cityId": "9424", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "san fernando_bukidnon_region x": {
+    "cityId": "9456", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "dumangas_iloilo_region vi": {
+    "cityId": "3667", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "san andres_quezon_region iv-a": {
+    "cityId": "9234", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "oroquieta city (capital)_oroquieta city_region x": {
+    "cityId": "5618", 
+    "regId": "203", 
+    "divId": "274"
+  }, 
+  "calintaan_occidental mindoro_region iv-b": {
+    "cityId": "2537", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "katipunan_zamboanga del norte_region ix": {
+    "cityId": "5242", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "aglipay_quirino_region ii": {
+    "cityId": "552", 
+    "regId": "193", 
+    "divId": "143"
+  }, 
+  "bakun_benguet_car": {
+    "cityId": "7540", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "guiguinto_bulacan_region iii": {
+    "cityId": "1195", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "gonzaga_cagayan_region ii": {
+    "cityId": "591", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "san mateo_isabela_region ii": {
+    "cityId": "854", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "san andres (calolbon)_catanduanes_region v": {
+    "cityId": "2988", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "pitogo_zamboanga del sur_region ix": {
+    "cityId": "9375", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "villasis_pangasinan ii, binalonan_region i": {
+    "cityId": "8570", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "mendez (mendez-nu\u00f1ez)_cavite_region iv-a": {
+    "cityId": "1704", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "moises padilla (magallon)_negros occidental_region vi": {
+    "cityId": "8314", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "pinamalayan_oriental mindoro_region iv-b": {
+    "cityId": "2458", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "tangalan_aklan_region vi": {
+    "cityId": "3763", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "guimba_nueva ecija_region iii": {
+    "cityId": "1013", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "tampakan_south cotabato_region xii": {
+    "cityId": "6414", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "tudela_cebu_region vii": {
+    "cityId": "4496", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "midsalip_zamboanga del sur_region ix": {
+    "cityId": "5304", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "bauang_la union_region i": {
+    "cityId": "137", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "kibungan_benguet_car": {
+    "cityId": "7681", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "manito_albay_region v": {
+    "cityId": "3028", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "cabarroguis (capital)_quirino_region ii": {
+    "cityId": "607", 
+    "regId": "193", 
+    "divId": "143"
+  }, 
+  "laoag city (capital)_laoag city_region i": {
+    "cityId": "146", 
+    "regId": "192", 
+    "divId": "126"
+  }, 
+  "duero_bohol_region vii": {
+    "cityId": "4041", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "anda_pangasinan i, lingayen_region i": {
+    "cityId": "126", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "city of calamba_calamba city_region iv-a": {
+    "cityId": "1775", 
+    "regId": "196", 
+    "divId": "179"
+  }, 
+  "ungkaya pukan_basilan_armm": {
+    "cityId": "9260", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "ibaan_batangas_region iv-a": {
+    "cityId": "1898", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "san nicolas_manila_ncr": {
+    "cityId": "9301", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "san nicolas_batangas_region iv-a": {
+    "cityId": "9349", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "besao_mt. province_car": {
+    "cityId": "7531", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "sominot (don mariano marcos)_zamboanga del sur_region ix": {
+    "cityId": "5517", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "tabontabon_leyte_region viii": {
+    "cityId": "4877", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "calanasan (bayag)_apayao_car": {
+    "cityId": "7545", 
+    "regId": "208", 
+    "divId": "312"
+  }, 
+  "labason_zamboanga del norte_region ix": {
+    "cityId": "5208", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "bagulin_la union_region i": {
+    "cityId": "135", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "mangatarem_pangasinan i, lingayen_region i": {
+    "cityId": "180", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "arayat_pampanga_region iii": {
+    "cityId": "977", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "zumarraga_samar (western samar)_region viii": {
+    "cityId": "4710", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "mandaon_masbate_region v": {
+    "cityId": "2967", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "saint bernard_southern leyte_region viii": {
+    "cityId": "4847", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "tapul_sulu_armm": {
+    "cityId": "7503", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "delfin albano (magsaysay)_isabela_region ii": {
+    "cityId": "568", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "old panamao_sulu_armm": {
+    "cityId": "7354", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "valencia_bohol_region vii": {
+    "cityId": "4426", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "santa lucia_ilocos sur_region i": {
+    "cityId": "382", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "consolacion_cebu_region vii": {
+    "cityId": "4109", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "tanauan_leyte_region viii": {
+    "cityId": "4887", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "impasug-ong_bukidnon_region x": {
+    "cityId": "5708", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "lumbaca-unayan_lanao del sur - ii_armm": {
+    "cityId": "9119", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "bantayan_cebu_region vii": {
+    "cityId": "4048", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "san quintin_abra_car": {
+    "cityId": "7774", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "taysan_batangas_region iv-a": {
+    "cityId": "1763", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "santa ignacia_tarlac_region iii": {
+    "cityId": "1065", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "villareal_samar (western samar)_region viii": {
+    "cityId": "4836", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "jala-jala_rizal_region iv-a": {
+    "cityId": "1717", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "san jose_romblon_region iv-b": {
+    "cityId": "9367", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "pagudpud_ilocos norte_region i": {
+    "cityId": "351", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "bacolod city (capital)_negros occidental_region vi": {
+    "cityId": "9392", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "santa maria_pangasinan ii, binalonan_region i": {
+    "cityId": "9313", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "alfonso lista (potia)_ifugao_car": {
+    "cityId": "7617", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "mambusao_capiz_region vi": {
+    "cityId": "3552", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "abucay_bataan_region iii": {
+    "cityId": "986", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "boac (capital)_marinduque_region iv-b": {
+    "cityId": "2552", 
+    "regId": "197", 
+    "divId": "190"
+  }, 
+  "paombong_bulacan_region iii": {
+    "cityId": "1257", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "lacub_abra_car": {
+    "cityId": "7553", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "agutaya_palawan_region iv-b": {
+    "cityId": "2561", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "dumanjug_cebu_region vii": {
+    "cityId": "4072", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "city of san fernando (capital)_san fernando city_region iii": {
+    "cityId": "9167", 
+    "regId": "194", 
+    "divId": "1530"
+  }, 
+  "santa fe_romblon_region iv-b": {
+    "cityId": "9371", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "jasaan_misamis oriental_region x": {
+    "cityId": "5578", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "bugallon_pangasinan i, lingayen_region i": {
+    "cityId": "187", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "dingalan_aurora_region iii": {
+    "cityId": "1154", 
+    "regId": "194", 
+    "divId": "153"
+  }, 
+  "sabangan_mt. province_car": {
+    "cityId": "7636", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "city of balanga (capital)_balanga city_region iii": {
+    "cityId": "1017", 
+    "regId": "194", 
+    "divId": "180"
+  }, 
+  "cabangan_isabela_region ii": {
+    "cityId": "555", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "san isidro_leyte_region viii": {
+    "cityId": "9439", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "mabalacat city_mabalacat city_region iii": {
+    "cityId": "955", 
+    "regId": "194", 
+    "divId": "175"
+  }, 
+  "cagayan de oro city (capital)_misamis oriental_region x": {
+    "cityId": "9447", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "camalig_albay_region v": {
+    "cityId": "2922", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "natividad_pangasinan ii, binalonan_region i": {
+    "cityId": "8582", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "do\u00f1a remedios trinidad_bulacan_region iii": {
+    "cityId": "9192", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "taraka_lanao del sur - i_armm": {
+    "cityId": "7246", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "city of ligao_ligao city_region v": {
+    "cityId": "2881", 
+    "regId": "198", 
+    "divId": "200"
+  }, 
+  "kayapa_nueva vizcaya_region ii": {
+    "cityId": "600", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "almeria_biliran_region viii": {
+    "cityId": "4667", 
+    "regId": "201", 
+    "divId": "229"
+  }, 
+  "sagay city_sagay city_region vi": {
+    "cityId": "8167", 
+    "regId": "199", 
+    "divId": "340"
+  }, 
+  "agoo_la union_region i": {
+    "cityId": "115", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "san juan (cabalian)_southern leyte_region viii": {
+    "cityId": "5084", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "mariveles_bataan_region iii": {
+    "cityId": "1029", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "sagbayan (borja)_bohol_region vii": {
+    "cityId": "4073", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "magsaysay_davao del sur_region xi": {
+    "cityId": "9464", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "tingloy_batangas_region iv-a": {
+    "cityId": "2159", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "pasacao_camarines sur_region v": {
+    "cityId": "2887", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "solano_nueva vizcaya_region ii": {
+    "cityId": "588", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "cagwait_surigao del sur_caraga": {
+    "cityId": "6867", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "lapu-lapu city (opon)_lapu-lapu city_region vii": {
+    "cityId": "4024", 
+    "regId": "200", 
+    "divId": "218"
+  }, 
+  "santiago_ilocos sur_region i": {
+    "cityId": "313", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "dasol_pangasinan i, lingayen_region i": {
+    "cityId": "253", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "don marcelino_davao occidental_region xi": {
+    "cityId": "6068", 
+    "regId": "204", 
+    "divId": "1536"
+  }, 
+  "burauen_leyte_region viii": {
+    "cityId": "4730", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "gen. s. k. pendatun_maguindanao i_armm": {
+    "cityId": "7257", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "pandan_antique_region vi": {
+    "cityId": "9404", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "binondo_manila_ncr": {
+    "cityId": "9262", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "badoc_ilocos norte_region i": {
+    "cityId": "221", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "datu abdullah sangki_maguindanao i_armm": {
+    "cityId": "9122", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "manabo_abra_car": {
+    "cityId": "7710", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "cataingan_masbate_region v": {
+    "cityId": "2897", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "tayasan_negros oriental_region vii": {
+    "cityId": "8456", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "santa maria_ilocos sur_region i": {
+    "cityId": "9312", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "polanco_zamboanga del norte_region ix": {
+    "cityId": "5458", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "jabonga_agusan del norte_caraga": {
+    "cityId": "6851", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "libacao_aklan_region vi": {
+    "cityId": "3565", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "sariaya_quezon_region iv-a": {
+    "cityId": "9238", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "dauis_tagbilaran city_region vii": {
+    "cityId": "9417", 
+    "regId": "200", 
+    "divId": "237"
+  }, 
+  "palanan_isabela_region ii": {
+    "cityId": "731", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "dauis_bohol_region vii": {
+    "cityId": "4066", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "jipapad_eastern samar_region viii": {
+    "cityId": "4869", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "itogon_benguet_car": {
+    "cityId": "7535", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "madalag_aklan_region vi": {
+    "cityId": "3555", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "narra_palawan_region iv-b": {
+    "cityId": "2465", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "santa maria_laguna_region iv-a": {
+    "cityId": "9351", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "lupao_nueva ecija_region iii": {
+    "cityId": "953", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "lagangilang_abra_car": {
+    "cityId": "7528", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "makato_aklan_region vi": {
+    "cityId": "3573", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "tarragona_davao oriental_region xi": {
+    "cityId": "6241", 
+    "regId": "204", 
+    "divId": "269"
+  }, 
+  "general luna_siargao_caraga": {
+    "cityId": "9281", 
+    "regId": "206", 
+    "divId": "292"
+  }, 
+  "ivana_batanes_region ii": {
+    "cityId": "742", 
+    "regId": "193", 
+    "divId": "144"
+  }, 
+  "javier (bugho)_leyte_region viii": {
+    "cityId": "4867", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "calbiga_samar (western samar)_region viii": {
+    "cityId": "4752", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "catanauan_quezon_region iv-a": {
+    "cityId": "9207", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "babatngon_leyte_region viii": {
+    "cityId": "4870", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "palompon_leyte_region viii": {
+    "cityId": "4664", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "tanudan_kalinga_car": {
+    "cityId": "7708", 
+    "regId": "208", 
+    "divId": "311"
+  }, 
+  "matnog_sorsogon_region v": {
+    "cityId": "3051", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "sison_surigao del norte_caraga": {
+    "cityId": "6922", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "bantay_ilocos sur_region i": {
+    "cityId": "161", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "bayabas_surigao del sur_caraga": {
+    "cityId": "7167", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "argao_cebu_region vii": {
+    "cityId": "4019", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "danao_bohol_region vii": {
+    "cityId": "4159", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "pandan_catanduanes_region v": {
+    "cityId": "3038", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "san agustin_isabela_region ii": {
+    "cityId": "655", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "salcedo (baugen)_ilocos sur_region i": {
+    "cityId": "257", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "doha_qatar_pso": {
+    "cityId": "9251", 
+    "regId": "211", 
+    "divId": "1541"
+  }, 
+  "dao_capiz_region vi": {
+    "cityId": "3578", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "basco (capital)_batanes_region ii": {
+    "cityId": "590", 
+    "regId": "193", 
+    "divId": "144"
+  }, 
+  "pe\u00f1arrubia_abra_car": {
+    "cityId": "9264", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "cadiz city_cadiz city_region vi": {
+    "cityId": "8158", 
+    "regId": "199", 
+    "divId": "338"
+  }, 
+  "lala_lanao del norte_region x": {
+    "cityId": "5755", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "macarthur_leyte_region viii": {
+    "cityId": "4923", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "quirino (angkaki)_ilocos sur_region i": {
+    "cityId": "443", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "city of sipalay_sipalay city_region vi": {
+    "cityId": "8285", 
+    "regId": "199", 
+    "divId": "1537"
+  }, 
+  "sumilao_bukidnon_region x": {
+    "cityId": "5897", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "burgos_isabela_region ii": {
+    "cityId": "9316", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "san luis_batangas_region iv-a": {
+    "cityId": "9348", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "cabatuan_isabela_region ii": {
+    "cityId": "612", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "jose panganiban_camarines norte_region v": {
+    "cityId": "3116", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "victoria_oriental mindoro_region iv-b": {
+    "cityId": "9373", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "guipos_zamboanga del sur_region ix": {
+    "cityId": "5211", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "talavera_nueva ecija_region iii": {
+    "cityId": "1048", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "umingan_pangasinan ii, binalonan_region i": {
+    "cityId": "8576", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "san roque_northern samar_region viii": {
+    "cityId": "4687", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "murcia_negros occidental_region vi": {
+    "cityId": "8161", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "tuguegarao city (capital)_tuguegarao city_region ii": {
+    "cityId": "620", 
+    "regId": "193", 
+    "divId": "1528"
+  }, 
+  "maasin_iloilo_region vi": {
+    "cityId": "3632", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "sibulan_negros oriental_region vii": {
+    "cityId": "8124", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "iloilo city (capital)_iloilo_region vi": {
+    "cityId": "9400", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "baguio city_baguio city_car": {
+    "cityId": "7559", 
+    "regId": "208", 
+    "divId": "313"
+  }, 
+  "concepcion_misamis occidental_region x": {
+    "cityId": "9450", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "rizal_cagayan_region ii": {
+    "cityId": "724", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "san isidro_isabela_region ii": {
+    "cityId": "647", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "calaca_batangas_region iv-a": {
+    "cityId": "1745", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "pilar_sorsogon_region v": {
+    "cityId": "9384", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "binalbagan_himamaylan city_region vi": {
+    "cityId": "8171", 
+    "regId": "199", 
+    "divId": "1538"
+  }, 
+  "cotabato city_cotabato city_region xii": {
+    "cityId": "8682", 
+    "regId": "205", 
+    "divId": "580"
+  }, 
+  "pasil_kalinga_car": {
+    "cityId": "7583", 
+    "regId": "208", 
+    "divId": "311"
+  }, 
+  "san jose_camarines sur_region v": {
+    "cityId": "9387", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "compostela_cebu_region vii": {
+    "cityId": "4031", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "batuan_bohol_region vii": {
+    "cityId": "9415", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "mayorga_leyte_region viii": {
+    "cityId": "4963", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "santol_la union_region i": {
+    "cityId": "167", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "city of koronadal (capital)_koronadal city_region xii": {
+    "cityId": "6352", 
+    "regId": "205", 
+    "divId": "283"
+  }, 
+  "barugo_leyte_region viii": {
+    "cityId": "4697", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "cervantes_ilocos sur_region i": {
+    "cityId": "237", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "tagbilaran city (capital)_tagbilaran city_region vii": {
+    "cityId": "4075", 
+    "regId": "200", 
+    "divId": "237"
+  }, 
+  "vincenzo a. sagun_zamboanga del sur_region ix": {
+    "cityId": "5255", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "donsol_sorsogon_region v": {
+    "cityId": "2992", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "buenavista_quezon_region iv-a": {
+    "cityId": "9204", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "malitbog_bukidnon_region x": {
+    "cityId": "9453", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "tagkawayan_quezon_region iv-a": {
+    "cityId": "9239", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "monreal_masbate_region v": {
+    "cityId": "3040", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "tampilisan_zamboanga del norte_region ix": {
+    "cityId": "5298", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "kapatagan_lanao del norte_region x": {
+    "cityId": "5593", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "mexico_pampanga_region iii": {
+    "cityId": "1156", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "santa ana_cagayan_region ii": {
+    "cityId": "638", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "city of manila_manila_ncr": {
+    "cityId": "7887", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "magsaysay_occidental mindoro_region iv-b": {
+    "cityId": "9359", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "santa catalina_ilocos sur_region i": {
+    "cityId": "201", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "zamboanga city_zamboanga city_region ix": {
+    "cityId": "8670", 
+    "regId": "202", 
+    "divId": "246"
+  }, 
+  "villanueva_misamis oriental_region x": {
+    "cityId": "5726", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "maripipi_biliran_region viii": {
+    "cityId": "4952", 
+    "regId": "201", 
+    "divId": "229"
+  }, 
+  "corcuera_romblon_region iv-b": {
+    "cityId": "2567", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "quezon_quezon_region iv-a": {
+    "cityId": "9231", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "paete_laguna_region iv-a": {
+    "cityId": "2181", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "remedios t. romualdez_agusan del norte_caraga": {
+    "cityId": "6815", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "san ricardo_southern leyte_region viii": {
+    "cityId": "4814", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "tongkil_sulu_armm": {
+    "cityId": "7511", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "arteche_eastern samar_region viii": {
+    "cityId": "4678", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "virac (capital)_catanduanes_region v": {
+    "cityId": "2889", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "city of bogo_bogo city_region vii": {
+    "cityId": "4014", 
+    "regId": "200", 
+    "divId": "221"
+  }, 
+  "batangas city (capital)_batangas city_region iv-a": {
+    "cityId": "1687", 
+    "regId": "196", 
+    "divId": "164"
+  }, 
+  "city of tayabas_tayabas city_region iv-a": {
+    "cityId": "2191", 
+    "regId": "196", 
+    "divId": "496"
+  }, 
+  "pio v. corpuz (limbuhan)_masbate_region v": {
+    "cityId": "2958", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "candaba_pampanga_region iii": {
+    "cityId": "989", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "pigkawayan_north cotabato_region xii": {
+    "cityId": "6616", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "caba_la union_region i": {
+    "cityId": "196", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "la paz_tarlac_region iii": {
+    "cityId": "1126", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "south upi_maguindanao i_armm": {
+    "cityId": "7353", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "victoria_tarlac_region iii": {
+    "cityId": "993", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "san jose (capital)_dinagat island_caraga": {
+    "cityId": "9292", 
+    "regId": "206", 
+    "divId": "291"
+  }, 
+  "m'lang_north cotabato_region xii": {
+    "cityId": "6394", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "aringay_la union_region i": {
+    "cityId": "130", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "culaba_biliran_region viii": {
+    "cityId": "4720", 
+    "regId": "201", 
+    "divId": "229"
+  }, 
+  "mambajao (capital)_camiguin_region x": {
+    "cityId": "5749", 
+    "regId": "203", 
+    "divId": "257"
+  }, 
+  "mangaldan_pangasinan ii, binalonan_region i": {
+    "cityId": "8580", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "san felipe_zambales_region iii": {
+    "cityId": "1166", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "sinacaban_misamis occidental_region x": {
+    "cityId": "5730", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "inabanga_bohol_region vii": {
+    "cityId": "4213", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "gattaran_cagayan_region ii": {
+    "cityId": "624", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "agoncillo_batangas_region iv-a": {
+    "cityId": "1681", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "panukulan_quezon_region iv-a": {
+    "cityId": "9225", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "santo ni\u00f1o_samar (western samar)_region viii": {
+    "cityId": "9257", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "city of candon_candon city_region i": {
+    "cityId": "215", 
+    "regId": "192", 
+    "divId": "133"
+  }, 
+  "city of panabo_panabo city_region xi": {
+    "cityId": "5974", 
+    "regId": "204", 
+    "divId": "263"
+  }, 
+  "burdeos_quezon_region iv-a": {
+    "cityId": "9203", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "parang_sulu_armm": {
+    "cityId": "9267", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "botolan_zambales_region iii": {
+    "cityId": "1005", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "san miguel_zamboanga del sur_region ix": {
+    "cityId": "9377", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "miagao_iloilo_region vi": {
+    "cityId": "3564", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "santa teresita_batangas_region iv-a": {
+    "cityId": "9352", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "concepcion_iloilo_region vi": {
+    "cityId": "9399", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "quinapondan_eastern samar_region viii": {
+    "cityId": "5038", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "agdangan_quezon_region iv-a": {
+    "cityId": "9199", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "vinzons_camarines norte_region v": {
+    "cityId": "3053", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "san emilio_ilocos sur_region i": {
+    "cityId": "322", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "bagabag_nueva vizcaya_region ii": {
+    "cityId": "577", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "isabel_leyte_region viii": {
+    "cityId": "4864", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "pagbilao_quezon_region iv-a": {
+    "cityId": "9223", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "clarin_bohol_region vii": {
+    "cityId": "4081", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "payao_zamboanga sibugay_region ix": {
+    "cityId": "5212", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "san isidro_mati city_region xi": {
+    "cityId": "9466", 
+    "regId": "204", 
+    "divId": "270"
+  }, 
+  "magalang_pampanga_region iii": {
+    "cityId": "967", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "tunga_leyte_region viii": {
+    "cityId": "4832", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "burgos_ilocos norte_region i": {
+    "cityId": "190", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "cagdianao_dinagat island_caraga": {
+    "cityId": "6887", 
+    "regId": "206", 
+    "divId": "291"
+  }, 
+  "lucban_quezon_region iv-a": {
+    "cityId": "9218", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "tumauini_isabela_region ii": {
+    "cityId": "570", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "sikatuna_bohol_region vii": {
+    "cityId": "4561", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "caibiran_biliran_region viii": {
+    "cityId": "4859", 
+    "regId": "201", 
+    "divId": "229"
+  }, 
+  "calatagan_batangas_region iv-a": {
+    "cityId": "1820", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "ilagan city (capital)_city of ilagan_region ii": {
+    "cityId": "659", 
+    "regId": "193", 
+    "divId": "148"
+  }, 
+  "pe\u00f1ablanca_cagayan_region ii": {
+    "cityId": "613", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "san jacinto_masbate_region v": {
+    "cityId": "2900", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "dolores_quezon_region iv-a": {
+    "cityId": "9210", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "malvar_batangas_region iv-a": {
+    "cityId": "1889", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "binuangan_misamis oriental_region x": {
+    "cityId": "5597", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "bingawan_iloilo_region vi": {
+    "cityId": "3618", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "santa fe_cebu_region vii": {
+    "cityId": "9431", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "ampatuan_maguindanao i_armm": {
+    "cityId": "7248", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "akbar_basilan_armm": {
+    "cityId": "7521", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "pagsanjan_laguna_region iv-a": {
+    "cityId": "2141", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "la libertad_zamboanga del norte_region ix": {
+    "cityId": "5361", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "masantol_pampanga_region iii": {
+    "cityId": "1303", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "panay_capiz_region vi": {
+    "cityId": "3671", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "tipo-tipo_basilan_armm": {
+    "cityId": "7326", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "maragondon_cavite_region iv-a": {
+    "cityId": "1776", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "quirino_isabela_region ii": {
+    "cityId": "684", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "burgos_pangasinan i, lingayen_region i": {
+    "cityId": "9306", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "city of talisay_negros occidental_region vi": {
+    "cityId": "9398", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "city of meycauayan_meycauayan city_region iii": {
+    "cityId": "949", 
+    "regId": "194", 
+    "divId": "176"
+  }, 
+  "busuanga_palawan_region iv-b": {
+    "cityId": "2557", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "gigaquit_surigao del norte_caraga": {
+    "cityId": "6957", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "cabuyao_laguna_region iv-a": {
+    "cityId": "9340", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "molave_zamboanga del sur_region ix": {
+    "cityId": "5419", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "madalum_lanao del sur - ii_armm": {
+    "cityId": "8690", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "ilagan city (capital)_isabela_region ii": {
+    "cityId": "9317", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "binmaley_pangasinan i, lingayen_region i": {
+    "cityId": "177", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "santa ana_manila_ncr": {
+    "cityId": "9302", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "agno_pangasinan i, lingayen_region i": {
+    "cityId": "110", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "panganiban (payo)_catanduanes_region v": {
+    "cityId": "3319", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "tulunan_north cotabato_region xii": {
+    "cityId": "6363", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "sasmuan (sexmoan)_pampanga_region iii": {
+    "cityId": "1312", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "la castellana_negros occidental_region vi": {
+    "cityId": "8194", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "city of tacurong_tacurong city_region xii": {
+    "cityId": "6348", 
+    "regId": "205", 
+    "divId": "282"
+  }, 
+  "lipa city_lipa city_region iv-a": {
+    "cityId": "1701", 
+    "regId": "196", 
+    "divId": "167"
+  }, 
+  "licab_nueva ecija_region iii": {
+    "cityId": "1191", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "lupon_mati city_region xi": {
+    "cityId": "5996", 
+    "regId": "204", 
+    "divId": "270"
+  }, 
+  "tagana-an_surigao del norte_caraga": {
+    "cityId": "6910", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "turtle islands_tawi-tawi_armm": {
+    "cityId": "7515", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "lasam_cagayan_region ii": {
+    "cityId": "611", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "balindong (watu)_lanao del sur - i_armm": {
+    "cityId": "7259", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "san jorge_samar (western samar)_region viii": {
+    "cityId": "4723", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "matungao_lanao del norte_region x": {
+    "cityId": "5819", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "manapla_negros occidental_region vi": {
+    "cityId": "8390", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "lantawan_basilan_armm": {
+    "cityId": "7252", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "san jose_batangas_region iv-a": {
+    "cityId": "9346", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "padada_davao del sur_region xi": {
+    "cityId": "6171", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "lopez_quezon_region iv-a": {
+    "cityId": "9217", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "city of tanjay_tanjay city_region vii": {
+    "cityId": "8146", 
+    "regId": "200", 
+    "divId": "333"
+  }, 
+  "barira_maguindanao ii_armm": {
+    "cityId": "7292", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "bucloc_abra_car": {
+    "cityId": "9125", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "dinalungan_aurora_region iii": {
+    "cityId": "1247", 
+    "regId": "194", 
+    "divId": "153"
+  }, 
+  "tubay_agusan del norte_caraga": {
+    "cityId": "6940", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "lubao_pampanga_region iii": {
+    "cityId": "1007", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "luisiana_laguna_region iv-a": {
+    "cityId": "2218", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "tuy_batangas_region iv-a": {
+    "cityId": "1771", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "brooke's point_palawan_region iv-b": {
+    "cityId": "2503", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "placer_surigao del norte_caraga": {
+    "cityId": "9286", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "burgos_siargao_caraga": {
+    "cityId": "9276", 
+    "regId": "206", 
+    "divId": "292"
+  }, 
+  "lal-lo_cagayan_region ii": {
+    "cityId": "753", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "tubajon_dinagat island_caraga": {
+    "cityId": "7039", 
+    "regId": "206", 
+    "divId": "291"
+  }, 
+  "hamtic_antique_region vi": {
+    "cityId": "3629", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "talisay_batangas_region iv-a": {
+    "cityId": "1719", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "dumalag_capiz_region vi": {
+    "cityId": "3672", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "mahayag_zamboanga del sur_region ix": {
+    "cityId": "5238", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "boljoon_cebu_region vii": {
+    "cityId": "4082", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "magalang_mabalacat city_region iii": {
+    "cityId": "9326", 
+    "regId": "194", 
+    "divId": "175"
+  }, 
+  "tigaon_camarines sur_region v": {
+    "cityId": "2984", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "city of general trias_cavite_region iv-a": {
+    "cityId": "1938", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "biri_northern samar_region viii": {
+    "cityId": "4712", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "san juan_abra_car": {
+    "cityId": "9274", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "infanta_pangasinan i, lingayen_region i": {
+    "cityId": "169", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "santo tomas_la union_region i": {
+    "cityId": "143", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "itbayat_batanes_region ii": {
+    "cityId": "740", 
+    "regId": "193", 
+    "divId": "144"
+  }, 
+  "ragay_camarines sur_region v": {
+    "cityId": "3050", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "bulacan_bulacan_region iii": {
+    "cityId": "1058", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "kawayan_biliran_region viii": {
+    "cityId": "4885", 
+    "regId": "201", 
+    "divId": "229"
+  }, 
+  "city of tarlac (capital)_tarlac city_region iii": {
+    "cityId": "959", 
+    "regId": "194", 
+    "divId": "166"
+  }, 
+  "kapalong_davao del norte_region xi": {
+    "cityId": "6032", 
+    "regId": "204", 
+    "divId": "265"
+  }, 
+  "infanta_quezon_region iv-a": {
+    "cityId": "9215", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "romblon (capital)_romblon_region iv-b": {
+    "cityId": "2447", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "city of san juan_city of san juan_ncr": {
+    "cityId": "8052", 
+    "regId": "209", 
+    "divId": "334"
+  }, 
+  "san antonio_quezon_region iv-a": {
+    "cityId": "9235", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "santa fe_leyte_region viii": {
+    "cityId": "9443", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "dinagat_dinagat island_caraga": {
+    "cityId": "6882", 
+    "regId": "206", 
+    "divId": "291"
+  }, 
+  "araceli_palawan_region iv-b": {
+    "cityId": "2462", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "cabanatuan city_cabanatuan city_region iii": {
+    "cityId": "996", 
+    "regId": "194", 
+    "divId": "160"
+  }, 
+  "lupi_camarines sur_region v": {
+    "cityId": "3019", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "libona_bukidnon_region x": {
+    "cityId": "5741", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "hinundayan_southern leyte_region viii": {
+    "cityId": "4920", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "danglas_abra_car": {
+    "cityId": "7825", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "city of baybay_baybay city_region viii": {
+    "cityId": "4691", 
+    "regId": "201", 
+    "divId": "238"
+  }, 
+  "claver_surigao del norte_caraga": {
+    "cityId": "6914", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "rosario_cavite_region iv-a": {
+    "cityId": "9344", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "siniloan_laguna_region iv-a": {
+    "cityId": "1937", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "city of tanauan_tanauan city_region iv-a": {
+    "cityId": "1721", 
+    "regId": "196", 
+    "divId": "174"
+  }, 
+  "hagonoy_davao del sur_region xi": {
+    "cityId": "9463", 
+    "regId": "204", 
+    "divId": "264"
+  }, 
+  "baras_catanduanes_region v": {
+    "cityId": "9379", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "bato_camarines sur_region v": {
+    "cityId": "2926", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "maramag_bukidnon_region x": {
+    "cityId": "5613", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "san francisco (anao-aon)_surigao del norte_caraga": {
+    "cityId": "6850", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "flora_apayao_car": {
+    "cityId": "7537", 
+    "regId": "208", 
+    "divId": "312"
+  }, 
+  "lucena city (capital)_lucena city_region iv-a": {
+    "cityId": "1863", 
+    "regId": "196", 
+    "divId": "184"
+  }, 
+  "del gallego_camarines sur_region v": {
+    "cityId": "3065", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "loon_bohol_region vii": {
+    "cityId": "4111", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "ditsaan-ramain_lanao del sur - i_armm": {
+    "cityId": "7242", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "laoang_northern samar_region viii": {
+    "cityId": "4700", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "datu blah t. sinsuat_maguindanao ii_armm": {
+    "cityId": "9120", 
+    "regId": "207", 
+    "divId": "297"
+  }, 
+  "lianga_surigao del sur_caraga": {
+    "cityId": "6835", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "malilipot_albay_region v": {
+    "cityId": "3219", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "ferrol_romblon_region iv-b": {
+    "cityId": "2598", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "bolinao_pangasinan i, lingayen_region i": {
+    "cityId": "133", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "bacuag_surigao del norte_caraga": {
+    "cityId": "6845", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "san joaquin_iloilo_region vi": {
+    "cityId": "3583", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "estancia_iloilo_region vi": {
+    "cityId": "3613", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "roxas city (capital)_capiz_region vi": {
+    "cityId": "9407", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "santa monica (sapao)_siargao_caraga": {
+    "cityId": "6824", 
+    "regId": "206", 
+    "divId": "292"
+  }, 
+  "city of valenzuela_valenzuela city_ncr": {
+    "cityId": "7833", 
+    "regId": "209", 
+    "divId": "323"
+  }, 
+  "padre burgos_quezon_region iv-a": {
+    "cityId": "9224", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "lugus_sulu_armm": {
+    "cityId": "7357", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "cainta_cabuyao city_region iv-a": {
+    "cityId": "1811", 
+    "regId": "196", 
+    "divId": "1535"
+  }, 
+  "cainta_rizal_region iv-a": {
+    "cityId": "9341", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "angeles city_angeles city_region iii": {
+    "cityId": "961", 
+    "regId": "194", 
+    "divId": "157"
+  }, 
+  "matalam_north cotabato_region xii": {
+    "cityId": "6333", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "la paz_agusan del sur_caraga": {
+    "cityId": "9282", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "malimono_surigao del norte_caraga": {
+    "cityId": "6877", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "benito soliven_isabela_region ii": {
+    "cityId": "566", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "basilisa (rizal)_dinagat island_caraga": {
+    "cityId": "6945", 
+    "regId": "206", 
+    "divId": "291"
+  }, 
+  "pototan_iloilo_region vi": {
+    "cityId": "3561", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "torrijos_marinduque_region iv-b": {
+    "cityId": "2500", 
+    "regId": "197", 
+    "divId": "190"
+  }, 
+  "san juan_batangas_region iv-a": {
+    "cityId": "9347", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "villaba_leyte_region viii": {
+    "cityId": "4745", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "rapu-rapu_albay_region v": {
+    "cityId": "2924", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "san jose_northern samar_region viii": {
+    "cityId": "9440", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "pe\u00f1aranda_nueva ecija_region iii": {
+    "cityId": "9263", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "balangkayan_eastern samar_region viii": {
+    "cityId": "4686", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "allen_northern samar_region viii": {
+    "cityId": "4665", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "intramuros_manila_ncr": {
+    "cityId": "7952", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "canaman_camarines sur_region v": {
+    "cityId": "3228", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "bayombong (capital)_nueva vizcaya_region ii": {
+    "cityId": "602", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "san benito_siargao_caraga": {
+    "cityId": "7128", 
+    "regId": "206", 
+    "divId": "292"
+  }, 
+  "laua-an_antique_region vi": {
+    "cityId": "3670", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "bangued (capital)_abra_car": {
+    "cityId": "7525", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "san ildefonso_ilocos sur_region i": {
+    "cityId": "172", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "tomas oppus_southern leyte_region viii": {
+    "cityId": "4800", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "luba_abra_car": {
+    "cityId": "7701", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "ain khalid_qatar_pso": {
+    "cityId": "9250", 
+    "regId": "211", 
+    "divId": "1541"
+  }, 
+  "tuao_cagayan_region ii": {
+    "cityId": "737", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "general tinio (papaya)_nueva ecija_region iii": {
+    "cityId": "1209", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "anahawan_southern leyte_region viii": {
+    "cityId": "4670", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "bontoc (capital)_mt. province_car": {
+    "cityId": "7534", 
+    "regId": "208", 
+    "divId": "307"
+  }, 
+  "sindangan_zamboanga del norte_region ix": {
+    "cityId": "5216", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "marilao_bulacan_region iii": {
+    "cityId": "980", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "san jose_occidental mindoro_region iv-b": {
+    "cityId": "9366", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "maddela_quirino_region ii": {
+    "cityId": "583", 
+    "regId": "193", 
+    "divId": "143"
+  }, 
+  "magdalena_laguna_region iv-a": {
+    "cityId": "1780", 
+    "regId": "196", 
+    "divId": "159"
+  }, 
+  "san juan (lapog)_ilocos sur_region i": {
+    "cityId": "381", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "diffun_quirino_region ii": {
+    "cityId": "585", 
+    "regId": "193", 
+    "divId": "143"
+  }, 
+  "datu piang_maguindanao i_armm": {
+    "cityId": "7299", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "monkayo_compostela valley_region xi": {
+    "cityId": "5989", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "mankayan_benguet_car": {
+    "cityId": "7568", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "dinas_zamboanga del sur_region ix": {
+    "cityId": "5274", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "plaridel_misamis occidental_region x": {
+    "cityId": "9454", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "binidayan_lanao del sur - ii_armm": {
+    "cityId": "8691", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "odiongan_romblon_region iv-b": {
+    "cityId": "2639", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "balud_masbate_region v": {
+    "cityId": "2912", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "cuyapo_nueva ecija_region iii": {
+    "cityId": "1000", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "mawab_compostela valley_region xi": {
+    "cityId": "5979", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "island garden city of samal_island garden city of samal_region xi": {
+    "cityId": "5983", 
+    "regId": "204", 
+    "divId": "268"
+  }, 
+  "city of passi_passi city_region vi": {
+    "cityId": "3550", 
+    "regId": "199", 
+    "divId": "210"
+  }, 
+  "sinait_ilocos sur_region i": {
+    "cityId": "175", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "cabucgayan_biliran_region viii": {
+    "cityId": "4739", 
+    "regId": "201", 
+    "divId": "229"
+  }, 
+  "magallanes_agusan del norte_caraga": {
+    "cityId": "9284", 
+    "regId": "206", 
+    "divId": "285"
+  }, 
+  "alegria_surigao del norte_caraga": {
+    "cityId": "9275", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "nabunturan (capital)_compostela valley_region xi": {
+    "cityId": "6007", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "naujan_oriental mindoro_region iv-b": {
+    "cityId": "2459", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "sugbongcogon_misamis oriental_region x": {
+    "cityId": "5739", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "dolores_abra_car": {
+    "cityId": "9269", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "city of tagum (capital)_tagum city_region xi": {
+    "cityId": "6022", 
+    "regId": "204", 
+    "divId": "271"
+  }, 
+  "city of cauayan_cauayan city_region ii": {
+    "cityId": "643", 
+    "regId": "193", 
+    "divId": "147"
+  }, 
+  "reina mercedes_isabela_region ii": {
+    "cityId": "586", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "santo domingo (libog)_albay_region v": {
+    "cityId": "2875", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "san clemente_tarlac_region iii": {
+    "cityId": "1004", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "panglima estino (new panamao)_sulu_armm": {
+    "cityId": "7437", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "giporlos_eastern samar_region viii": {
+    "cityId": "4829", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "isulan (capital)_sultan kudarat_region xii": {
+    "cityId": "6361", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "city of masbate (capital)_masbate city_region v": {
+    "cityId": "2874", 
+    "regId": "198", 
+    "divId": "205"
+  }, 
+  "san andres_romblon_region iv-b": {
+    "cityId": "9365", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "magarao_camarines sur_region v": {
+    "cityId": "3086", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "tuburan_cebu_region vii": {
+    "cityId": "4186", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "rosales_pangasinan ii, binalonan_region i": {
+    "cityId": "8581", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "sitangkai_tawi-tawi_armm": {
+    "cityId": "7349", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "iligan city_iligan city_region x": {
+    "cityId": "5567", 
+    "regId": "203", 
+    "divId": "252"
+  }, 
+  "san dionisio_iloilo_region vi": {
+    "cityId": "3661", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "caramoan_camarines sur_region v": {
+    "cityId": "2937", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "pagalungan_maguindanao i_armm": {
+    "cityId": "7260", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "clarin_misamis occidental_region x": {
+    "cityId": "9448", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "anilao_iloilo_region vi": {
+    "cityId": "3572", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "san luis_agusan del sur_caraga": {
+    "cityId": "9293", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "calatrava_negros occidental_region vi": {
+    "cityId": "9396", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "labo_camarines norte_region v": {
+    "cityId": "2903", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "polillo_quezon_region iv-a": {
+    "cityId": "9230", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "palayan city (capital)_nueva ecija_region iii": {
+    "cityId": "1046", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "llanera_nueva ecija_region iii": {
+    "cityId": "966", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "poro_cebu_region vii": {
+    "cityId": "4366", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "alabat_quezon_region iv-a": {
+    "cityId": "9200", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "libungan_north cotabato_region xii": {
+    "cityId": "6371", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "baliuag_bulacan_region iii": {
+    "cityId": "999", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "dipaculao_aurora_region iii": {
+    "cityId": "1039", 
+    "regId": "194", 
+    "divId": "153"
+  }, 
+  "san pascual_masbate_region v": {
+    "cityId": "9389", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "gumaca_quezon_region iv-a": {
+    "cityId": "9214", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "ramos_tarlac_region iii": {
+    "cityId": "1450", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "sigma_capiz_region vi": {
+    "cityId": "3840", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "santa barbara_pangasinan i, lingayen_region i": {
+    "cityId": "151", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "sergio osme\u00f1a sr._zamboanga del norte_region ix": {
+    "cityId": "5480", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "luna_apayao_car": {
+    "cityId": "9271", 
+    "regId": "208", 
+    "divId": "312"
+  }, 
+  "lezo_aklan_region vi": {
+    "cityId": "3664", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "loboc_bohol_region vii": {
+    "cityId": "4129", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "bongao_tawi-tawi_armm": {
+    "cityId": "7267", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "gainza_camarines sur_region v": {
+    "cityId": "3112", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "city of digos (capital)_digos city_region xi": {
+    "cityId": "6059", 
+    "regId": "204", 
+    "divId": "272"
+  }, 
+  "lambayong (mariano marcos)_sultan kudarat_region xii": {
+    "cityId": "6498", 
+    "regId": "205", 
+    "divId": "281"
+  }, 
+  "pilar_abra_car": {
+    "cityId": "9272", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "san leonardo_nueva ecija_region iii": {
+    "cityId": "1296", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "lambunao_iloilo_region vi": {
+    "cityId": "3616", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "balingoan_misamis oriental_region x": {
+    "cityId": "5720", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "tiwi_albay_region v": {
+    "cityId": "3150", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "macrohon_southern leyte_region viii": {
+    "cityId": "4858", 
+    "regId": "201", 
+    "divId": "232"
+  }, 
+  "sultan dumalondong_lanao del sur - ii_armm": {
+    "cityId": "8693", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "bula_camarines sur_region v": {
+    "cityId": "2908", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "diplahan_zamboanga sibugay_region ix": {
+    "cityId": "5207", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "casiguran_aurora_region iii": {
+    "cityId": "1103", 
+    "regId": "194", 
+    "divId": "153"
+  }, 
+  "city of santiago_santiago city_region ii": {
+    "cityId": "615", 
+    "regId": "193", 
+    "divId": "145"
+  }, 
+  "bustos_bulacan_region iii": {
+    "cityId": "957", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "alitagtag_batangas_region iv-a": {
+    "cityId": "1690", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "san vicente_northern samar_region viii": {
+    "cityId": "9442", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "city of tarlac (capital)_tarlac_region iii": {
+    "cityId": "9325", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "malungon_sarangani_region xii": {
+    "cityId": "6351", 
+    "regId": "205", 
+    "divId": "278"
+  }, 
+  "santa elena_camarines norte_region v": {
+    "cityId": "2975", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "president roxas_capiz_region vi": {
+    "cityId": "3639", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "victoria_northern samar_region viii": {
+    "cityId": "9446", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "mondragon_northern samar_region viii": {
+    "cityId": "4820", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "libmanan_camarines sur_region v": {
+    "cityId": "2906", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "samal_bataan_region iii": {
+    "cityId": "1471", 
+    "regId": "194", 
+    "divId": "150"
+  }, 
+  "san miguel_bohol_region vii": {
+    "cityId": "9428", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "manolo fortich_bukidnon_region x": {
+    "cityId": "5570", 
+    "regId": "203", 
+    "divId": "253"
+  }, 
+  "gabaldon (bitulok & sabani)_nueva ecija_region iii": {
+    "cityId": "1192", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "nasugbu_batangas_region iv-a": {
+    "cityId": "1733", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "san nicolas_ilocos norte_region i": {
+    "cityId": "176", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "lubuagan_kalinga_car": {
+    "cityId": "7700", 
+    "regId": "208", 
+    "divId": "311"
+  }, 
+  "guagua_pampanga_region iii": {
+    "cityId": "1028", 
+    "regId": "194", 
+    "divId": "162"
+  }, 
+  "canlaon city_negros oriental_region vii": {
+    "cityId": "8182", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "talusan_zamboanga sibugay_region ix": {
+    "cityId": "5346", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "city malaybalay (capital)_malaybalay city_region x": {
+    "cityId": "5579", 
+    "regId": "203", 
+    "divId": "256"
+  }, 
+  "lamut_ifugao_car": {
+    "cityId": "7661", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "lidlidda_ilocos sur_region i": {
+    "cityId": "335", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "san isidro_siargao_caraga": {
+    "cityId": "9291", 
+    "regId": "206", 
+    "divId": "292"
+  }, 
+  "governor generoso_mati city_region xi": {
+    "cityId": "6132", 
+    "regId": "204", 
+    "divId": "270"
+  }, 
+  "urbiztondo_pangasinan i, lingayen_region i": {
+    "cityId": "144", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "daanbantayan_cebu_region vii": {
+    "cityId": "4033", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "mabini_pangasinan i, lingayen_region i": {
+    "cityId": "138", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "pugo_la union_region i": {
+    "cityId": "243", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "medina_misamis oriental_region x": {
+    "cityId": "5673", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "dimataling_zamboanga del sur_region ix": {
+    "cityId": "5214", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "pasay city_pasay city_ncr": {
+    "cityId": "7926", 
+    "regId": "209", 
+    "divId": "322"
+  }, 
+  "datu unsay_maguindanao i_armm": {
+    "cityId": "7306", 
+    "regId": "207", 
+    "divId": "298"
+  }, 
+  "hungduan_ifugao_car": {
+    "cityId": "7579", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "adams_ilocos norte_region i": {
+    "cityId": "111", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "baras_rizal_region iv-a": {
+    "cityId": "1740", 
+    "regId": "196", 
+    "divId": "156"
+  }, 
+  "alilem_ilocos sur_region i": {
+    "cityId": "119", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "city of malolos (capital)_malolos city_region iii": {
+    "cityId": "1050", 
+    "regId": "194", 
+    "divId": "173"
+  }, 
+  "amlan (ayuquitan)_negros oriental_region vii": {
+    "cityId": "8127", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "bato_catanduanes_region v": {
+    "cityId": "9380", 
+    "regId": "198", 
+    "divId": "201"
+  }, 
+  "saguday_quirino_region ii": {
+    "cityId": "852", 
+    "regId": "193", 
+    "divId": "143"
+  }, 
+  "balbalan_kalinga_car": {
+    "cityId": "7566", 
+    "regId": "208", 
+    "divId": "311"
+  }, 
+  "city of mati (capital)_mati city_region xi": {
+    "cityId": "5993", 
+    "regId": "204", 
+    "divId": "270"
+  }, 
+  "santa_ilocos sur_region i": {
+    "cityId": "164", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "jagna_bohol_region vii": {
+    "cityId": "4118", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "malinao_aklan_region vi": {
+    "cityId": "9402", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "balungao_pangasinan ii, binalonan_region i": {
+    "cityId": "8574", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "tukuran_zamboanga del sur_region ix": {
+    "cityId": "5368", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "san jacinto_pangasinan ii, binalonan_region i": {
+    "cityId": "9308", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "mayoyao_ifugao_car": {
+    "cityId": "7723", 
+    "regId": "208", 
+    "divId": "310"
+  }, 
+  "san pablo_isabela_region ii": {
+    "cityId": "658", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "malay_aklan_region vi": {
+    "cityId": "3622", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "braulio e. dujali_davao del norte_region xi": {
+    "cityId": "5985", 
+    "regId": "204", 
+    "divId": "265"
+  }, 
+  "carasi_ilocos norte_region i": {
+    "cityId": "222", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "pandi_bulacan_region iii": {
+    "cityId": "1053", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "matag-ob_leyte_region viii": {
+    "cityId": "4955", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "aloguinsan_cebu_region vii": {
+    "cityId": "4006", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "pantao ragat_lanao del norte_region x": {
+    "cityId": "5864", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "lagonoy_camarines sur_region v": {
+    "cityId": "2909", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "sharjah_united arab emirates_pso": {
+    "cityId": "9248", 
+    "regId": "211", 
+    "divId": "1539"
+  }, 
+  "pres. carlos p. garcia (pitogo)_bohol_region vii": {
+    "cityId": "4000", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "mansalay_oriental mindoro_region iv-b": {
+    "cityId": "2482", 
+    "regId": "197", 
+    "divId": "191"
+  }, 
+  "pudtol_apayao_car": {
+    "cityId": "7716", 
+    "regId": "208", 
+    "divId": "312"
+  }, 
+  "cortes_surigao del sur_caraga": {
+    "cityId": "9279", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "san jose_negros oriental_region vii": {
+    "cityId": "9426", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "san manuel_isabela_region ii": {
+    "cityId": "631", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "sapa-sapa_tawi-tawi_armm": {
+    "cityId": "7261", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "malasiqui_pangasinan i, lingayen_region i": {
+    "cityId": "118", 
+    "regId": "192", 
+    "divId": "127"
+  }, 
+  "norzagaray_bulacan_region iii": {
+    "cityId": "1200", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "julita_leyte_region viii": {
+    "cityId": "4875", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "maragusan (san mariano)_compostela valley_region xi": {
+    "cityId": "6130", 
+    "regId": "204", 
+    "divId": "267"
+  }, 
+  "labangan_zamboanga del sur_region ix": {
+    "cityId": "5236", 
+    "regId": "202", 
+    "divId": "245"
+  }, 
+  "basay_bayawan city_region vii": {
+    "cityId": "8121", 
+    "regId": "200", 
+    "divId": "328"
+  }, 
+  "sofronio espa\u00f1ola_palawan_region iv-b": {
+    "cityId": "2441", 
+    "regId": "197", 
+    "divId": "187"
+  }, 
+  "perez_quezon_region iv-a": {
+    "cityId": "9227", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "city of bislig_bislig city_caraga": {
+    "cityId": "6865", 
+    "regId": "206", 
+    "divId": "302"
+  }, 
+  "banaybanay_mati city_region xi": {
+    "cityId": "6135", 
+    "regId": "204", 
+    "divId": "270"
+  }, 
+  "tangub city_tangub city_region x": {
+    "cityId": "5591", 
+    "regId": "203", 
+    "divId": "276"
+  }, 
+  "pulilan_bulacan_region iii": {
+    "cityId": "990", 
+    "regId": "194", 
+    "divId": "152"
+  }, 
+  "city of lamitan_lamitan city_armm": {
+    "cityId": "7262", 
+    "regId": "207", 
+    "divId": "303"
+  }, 
+  "pitogo_quezon_region iv-a": {
+    "cityId": "9228", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "cabugao_ilocos sur_region i": {
+    "cityId": "202", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "lumbatan_lanao del sur - ii_armm": {
+    "cityId": "8692", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "basud_camarines norte_region v": {
+    "cityId": "2923", 
+    "regId": "198", 
+    "divId": "197"
+  }, 
+  "city of makati_pasay city_ncr": {
+    "cityId": "9298", 
+    "regId": "209", 
+    "divId": "322"
+  }, 
+  "bilar_bohol_region vii": {
+    "cityId": "4067", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "sampaloc_manila_ncr": {
+    "cityId": "2209", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "san manuel_pangasinan ii, binalonan_region i": {
+    "cityId": "9309", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "bien unido_bohol_region vii": {
+    "cityId": "4291", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "malinao_albay_region v": {
+    "cityId": "3095", 
+    "regId": "198", 
+    "divId": "202"
+  }, 
+  "enrique b. magalona (saravia)_negros occidental_region vi": {
+    "cityId": "8263", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "madridejos_cebu_region vii": {
+    "cityId": "4099", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "san antonio_northern samar_region viii": {
+    "cityId": "9436", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "balaoan_la union_region i": {
+    "cityId": "145", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "rizal_zamboanga del norte_region ix": {
+    "cityId": "9376", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "catigbian_bohol_region vii": {
+    "cityId": "4168", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "san miguel_manila_ncr": {
+    "cityId": "9300", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "city of vigan (capital)_vigan city_region i": {
+    "cityId": "306", 
+    "regId": "192", 
+    "divId": "136"
+  }, 
+  "buguias_benguet_car": {
+    "cityId": "7578", 
+    "regId": "208", 
+    "divId": "308"
+  }, 
+  "alamada_north cotabato_region xii": {
+    "cityId": "6337", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "tuburan_basilan_armm": {
+    "cityId": "9268", 
+    "regId": "207", 
+    "divId": "296"
+  }, 
+  "san carlos city_san carlos city_region i": {
+    "cityId": "8569", 
+    "regId": "192", 
+    "divId": "130"
+  }, 
+  "buruanga_aklan_region vi": {
+    "cityId": "3633", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "maslog_eastern samar_region viii": {
+    "cityId": "4954", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "city of san jose del monte_san jose del monte city_region iii": {
+    "cityId": "1054", 
+    "regId": "194", 
+    "divId": "177"
+  }, 
+  "buenavista_bohol_region vii": {
+    "cityId": "9168", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "claveria_masbate_region v": {
+    "cityId": "9382", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "santa cruz_manila_ncr": {
+    "cityId": "9303", 
+    "regId": "209", 
+    "divId": "315"
+  }, 
+  "san sebastian_samar (western samar)_region viii": {
+    "cityId": "5092", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "banisilan_north cotabato_region xii": {
+    "cityId": "6367", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "midsayap_north cotabato_region xii": {
+    "cityId": "6331", 
+    "regId": "205", 
+    "divId": "277"
+  }, 
+  "gregorio del pilar (concepcion)_ilocos sur_region i": {
+    "cityId": "293", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "lake sebu_south cotabato_region xii": {
+    "cityId": "6506", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "manay_davao oriental_region xi": {
+    "cityId": "6057", 
+    "regId": "204", 
+    "divId": "269"
+  }, 
+  "ambaguio_nueva vizcaya_region ii": {
+    "cityId": "563", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "palapag_northern samar_region viii": {
+    "cityId": "4736", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "city of gapan_gapan city_region iii": {
+    "cityId": "1224", 
+    "regId": "194", 
+    "divId": "169"
+  }, 
+  "city of sorsogon (capital)_sorsogon city_region v": {
+    "cityId": "2867", 
+    "regId": "198", 
+    "divId": "207"
+  }, 
+  "camiling_tarlac_region iii": {
+    "cityId": "1032", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "sag\u00f1ay_camarines sur_region v": {
+    "cityId": "3024", 
+    "regId": "198", 
+    "divId": "196"
+  }, 
+  "claveria_misamis oriental_region x": {
+    "cityId": "9449", 
+    "regId": "203", 
+    "divId": "251"
+  }, 
+  "city of tabaco_tabaco city_region v": {
+    "cityId": "8654", 
+    "regId": "198", 
+    "divId": "203"
+  }, 
+  "alcantara_romblon_region iv-b": {
+    "cityId": "2452", 
+    "regId": "197", 
+    "divId": "189"
+  }, 
+  "ganassi_lanao del sur - ii_armm": {
+    "cityId": "8696", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "san jose city_san jose city_region iii": {
+    "cityId": "1066", 
+    "regId": "194", 
+    "divId": "151"
+  }, 
+  "currimao_ilocos norte_region i": {
+    "cityId": "244", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "subic_zambales_region iii": {
+    "cityId": "954", 
+    "regId": "194", 
+    "divId": "154"
+  }, 
+  "veruela_agusan del sur_caraga": {
+    "cityId": "6984", 
+    "regId": "206", 
+    "divId": "288"
+  }, 
+  "moncada_tarlac_region iii": {
+    "cityId": "978", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "languyan_tawi-tawi_armm": {
+    "cityId": "7321", 
+    "regId": "207", 
+    "divId": "293"
+  }, 
+  "bacolod city (capital)_bacolod city_region vi": {
+    "cityId": "8119", 
+    "regId": "199", 
+    "divId": "326"
+  }, 
+  "mutia_zamboanga del norte_region ix": {
+    "cityId": "5422", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "mahinog_camiguin_region x": {
+    "cityId": "5791", 
+    "regId": "203", 
+    "divId": "257"
+  }, 
+  "bucay_abra_car": {
+    "cityId": "7630", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "city of batac_batac city_region i": {
+    "cityId": "165", 
+    "regId": "192", 
+    "divId": "137"
+  }, 
+  "balasan_iloilo_region vi": {
+    "cityId": "3592", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "tolosa_leyte_region viii": {
+    "cityId": "4791", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "bulusan_sorsogon_region v": {
+    "cityId": "2968", 
+    "regId": "198", 
+    "divId": "199"
+  }, 
+  "city of pasig_pasig city_ncr": {
+    "cityId": "7894", 
+    "regId": "209", 
+    "divId": "325"
+  }, 
+  "bongabon_nueva ecija_region iii": {
+    "cityId": "1036", 
+    "regId": "194", 
+    "divId": "149"
+  }, 
+  "kalingalan caluang_sulu_armm": {
+    "cityId": "7333", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "cortes_bohol_region vii": {
+    "cityId": "4255", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "luuk_sulu_armm": {
+    "cityId": "7332", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "barotac viejo_iloilo_region vi": {
+    "cityId": "3603", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "lila_bohol_region vii": {
+    "cityId": "4350", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "malibcong_abra_car": {
+    "cityId": "7718", 
+    "regId": "208", 
+    "divId": "306"
+  }, 
+  "city of sipalay_negros occidental_region vi": {
+    "cityId": "9397", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "batad_iloilo_region vi": {
+    "cityId": "3606", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "madamba_lanao del sur - ii_armm": {
+    "cityId": "8702", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "riyadh_kingdom of saudi arabia_pso": {
+    "cityId": "9253", 
+    "regId": "211", 
+    "divId": "1543"
+  }, 
+  "city of las pi\u00f1as_las pi\u00f1as city_ncr": {
+    "cityId": "8709", 
+    "regId": "209", 
+    "divId": "321"
+  }, 
+  "san isidro_davao del norte_region xi": {
+    "cityId": "9465", 
+    "regId": "204", 
+    "divId": "265"
+  }, 
+  "masiu_lanao del sur - i_armm": {
+    "cityId": "7343", 
+    "regId": "207", 
+    "divId": "287"
+  }, 
+  "a' ali_kingdom of bahrain_pso": {
+    "cityId": "9252", 
+    "regId": "211", 
+    "divId": "1542"
+  }, 
+  "baloi_lanao del norte_region x": {
+    "cityId": "5588", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "general luna_quezon_region iv-a": {
+    "cityId": "9211", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "taguig city_taguig_ncr": {
+    "cityId": "7840", 
+    "regId": "209", 
+    "divId": "319"
+  }, 
+  "anao_tarlac_region iii": {
+    "cityId": "964", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "tanza_cavite_region iv-a": {
+    "cityId": "1695", 
+    "regId": "196", 
+    "divId": "165"
+  }, 
+  "las navas_northern samar_region viii": {
+    "cityId": "4725", 
+    "regId": "201", 
+    "divId": "227"
+  }, 
+  "palanas_masbate_region v": {
+    "cityId": "3238", 
+    "regId": "198", 
+    "divId": "198"
+  }, 
+  "pilar_siargao_caraga": {
+    "cityId": "9285", 
+    "regId": "206", 
+    "divId": "292"
+  }, 
+  "legazpi city (capital)_legaspi city_region v": {
+    "cityId": "2891", 
+    "regId": "198", 
+    "divId": "206"
+  }, 
+  "enrique villanueva_siquijor_region vii": {
+    "cityId": "4251", 
+    "regId": "200", 
+    "divId": "225"
+  }, 
+  "boston_davao oriental_region xi": {
+    "cityId": "6020", 
+    "regId": "204", 
+    "divId": "269"
+  }, 
+  "tubao_la union_region i": {
+    "cityId": "128", 
+    "regId": "192", 
+    "divId": "131"
+  }, 
+  "capas_tarlac_region iii": {
+    "cityId": "976", 
+    "regId": "194", 
+    "divId": "155"
+  }, 
+  "new lucena_iloilo_region vi": {
+    "cityId": "3621", 
+    "regId": "199", 
+    "divId": "195"
+  }, 
+  "santa teresita_cagayan_region ii": {
+    "cityId": "770", 
+    "regId": "193", 
+    "divId": "140"
+  }, 
+  "surigao city (capital)_surigao del norte_caraga": {
+    "cityId": "9297", 
+    "regId": "206", 
+    "divId": "299"
+  }, 
+  "sablayan_occidental mindoro_region iv-b": {
+    "cityId": "2640", 
+    "regId": "197", 
+    "divId": "188"
+  }, 
+  "ayungon_negros oriental_region vii": {
+    "cityId": "8143", 
+    "regId": "200", 
+    "divId": "332"
+  }, 
+  "baroy_lanao del norte_region x": {
+    "cityId": "5665", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "sampaloc_quezon_region iv-a": {
+    "cityId": "9233", 
+    "regId": "196", 
+    "divId": "1534"
+  }, 
+  "ma-ayon_capiz_region vi": {
+    "cityId": "3707", 
+    "regId": "199", 
+    "divId": "211"
+  }, 
+  "dupax del sur_nueva vizcaya_region ii": {
+    "cityId": "637", 
+    "regId": "193", 
+    "divId": "141"
+  }, 
+  "balilihan_bohol_region vii": {
+    "cityId": "4077", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "medellin_cebu_region vii": {
+    "cityId": "4005", 
+    "regId": "200", 
+    "divId": "217"
+  }, 
+  "taal_batangas_region iv-a": {
+    "cityId": "2303", 
+    "regId": "196", 
+    "divId": "161"
+  }, 
+  "siquijor (capital)_siquijor_region vii": {
+    "cityId": "4040", 
+    "regId": "200", 
+    "divId": "225"
+  }, 
+  "butig_lanao del sur - ii_armm": {
+    "cityId": "8701", 
+    "regId": "207", 
+    "divId": "581"
+  }, 
+  "mercedes_eastern samar_region viii": {
+    "cityId": "9434", 
+    "regId": "201", 
+    "divId": "231"
+  }, 
+  "numancia_aklan_region vi": {
+    "cityId": "3866", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "calubian_leyte_region viii": {
+    "cityId": "4756", 
+    "regId": "201", 
+    "divId": "226"
+  }, 
+  "san nicolas_pangasinan ii, binalonan_region i": {
+    "cityId": "9310", 
+    "regId": "192", 
+    "divId": "125"
+  }, 
+  "nabas_aklan_region vi": {
+    "cityId": "3946", 
+    "regId": "199", 
+    "divId": "213"
+  }, 
+  "sibuco_zamboanga del norte_region ix": {
+    "cityId": "5253", 
+    "regId": "202", 
+    "divId": "243"
+  }, 
+  "marcos_ilocos norte_region i": {
+    "cityId": "369", 
+    "regId": "192", 
+    "divId": "128"
+  }, 
+  "tudela_misamis occidental_region x": {
+    "cityId": "9458", 
+    "regId": "203", 
+    "divId": "254"
+  }, 
+  "guindulman_bohol_region vii": {
+    "cityId": "4172", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "san luis_aurora_region iii": {
+    "cityId": "1150", 
+    "regId": "194", 
+    "divId": "153"
+  }, 
+  "tagudin_ilocos sur_region i": {
+    "cityId": "123", 
+    "regId": "192", 
+    "divId": "129"
+  }, 
+  "paranas (wright)_samar (western samar)_region viii": {
+    "cityId": "4677", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "patnongon_antique_region vi": {
+    "cityId": "3579", 
+    "regId": "199", 
+    "divId": "214"
+  }, 
+  "hadji panglima tahil (marunggas)_sulu_armm": {
+    "cityId": "7319", 
+    "regId": "207", 
+    "divId": "290"
+  }, 
+  "buug_zamboanga sibugay_region ix": {
+    "cityId": "5219", 
+    "regId": "202", 
+    "divId": "249"
+  }, 
+  "bagumbayan sultan kudarat_davao occidental_region xi": {
+    "cityId": "9245", 
+    "regId": "204", 
+    "divId": "1536"
+  }, 
+  "gandara_samar (western samar)_region viii": {
+    "cityId": "4839", 
+    "regId": "201", 
+    "divId": "228"
+  }, 
+  "marihatag_surigao del sur_caraga": {
+    "cityId": "6839", 
+    "regId": "206", 
+    "divId": "286"
+  }, 
+  "ilog_negros occidental_region vi": {
+    "cityId": "8131", 
+    "regId": "199", 
+    "divId": "329"
+  }, 
+  "corella_bohol_region vii": {
+    "cityId": "4141", 
+    "regId": "200", 
+    "divId": "216"
+  }, 
+  "banga_south cotabato_region xii": {
+    "cityId": "9469", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "polomolok_south cotabato_region xii": {
+    "cityId": "6376", 
+    "regId": "205", 
+    "divId": "275"
+  }, 
+  "tubod (capital)_lanao del norte_region x": {
+    "cityId": "5582", 
+    "regId": "203", 
+    "divId": "250"
+  }, 
+  "ramon_isabela_region ii": {
+    "cityId": "714", 
+    "regId": "193", 
+    "divId": "142"
+  }, 
+  "tondo_manila_ncr": {
+    "cityId": "7832", 
+    "regId": "209", 
+    "divId": "315"
+  }
+}
