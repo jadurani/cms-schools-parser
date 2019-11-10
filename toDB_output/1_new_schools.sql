@@ -1,3 +1,4 @@
+
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (430505, "Aborlan Bible Baptist Christian School", "National Highway, Mabini, Aborlan, Palawan", 197, 187, 2443, NOW(), 26);
 
@@ -5258,7 +5259,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (402845, "Blanco Family Academy", "312 A. IBAÑEZ ST.,", 196, 156, 1700, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (301433, "Carlos "Botong" V. Francisco MNHS", "Grand Valley Phase IV", 196, 156, 1700, NOW(), 26);
+VALUES (301433, "Carlos \"Botong\" V. Francisco MNHS", "Grand Valley Phase IV", 196, 156, 1700, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (425707, "Charis Praise Christian Academy", "Isaac Ave. Purok 3, Zone 1", 196, 156, 1700, NOW(), 26);
@@ -9995,7 +9996,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (401810, "Queens Row Christian Academy", "B-13 L-1&3 Queen's Park St. Queen's Row Central, Bacoor, Cav", 196, 172, 1711, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (401811, "Queens Row Gospel Church Christian School", "B19 L28 Queen's Row "A" Central Bacoor Cavite", 196, 172, 1711, NOW(), 26);
+VALUES (401811, "Queens Row Gospel Church Christian School", "B19 L28 Queen's Row \"A\" Central Bacoor Cavite", 196, 172, 1711, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (401812, "Queens Row Integrated Science School", "Blk 1 Lot 19 Queen's Row East", 196, 172, 1711, NOW(), 26);
@@ -17618,7 +17619,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (102311, "Basco Central School", "washingston st", 193, 144, 590, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (300411, "Batanes Nat"l Science High School", "Kavangan Drive", 193, 144, 590, NOW(), 26);
+VALUES (300411, "Batanes Nat\"l Science High School", "Kavangan Drive", 193, 144, 590, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (102312, "Chanarian Barrio School", "National Road", 193, 144, 590, NOW(), 26);
@@ -26900,7 +26901,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (110950, "New Busuanga Elementary School", "Sandoval", 197, 187, 2557, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (301711, "New Busuanga National High School", "Nat"l Highway,", 197, 187, 2557, NOW(), 26);
+VALUES (301711, "New Busuanga National High School", "Nat\"l Highway,", 197, 187, 2557, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (110951, "New Calawit Elementary School", "none", 197, 187, 2557, NOW(), 26);

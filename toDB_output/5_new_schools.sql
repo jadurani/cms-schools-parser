@@ -11055,7 +11055,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (483029, "Prep Kamp Preschool and Daycare Learning Center", "610 P.C. Santos St. Tolentino", 209, 322, 7926, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (319604, "President Corazon "Cory" C. Aquino National High School", "St. Francis Street, Maricaban Pasay City", 209, 322, 7926, NOW(), 26);
+VALUES (319604, "President Corazon \"Cory\" C. Aquino National High School", "St. Francis Street, Maricaban Pasay City", 209, 322, 7926, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (483014, "R and O Academy Inc.", "P01-22 4th-3rd St. Villamor Airbase Pasay City", 209, 322, 7926, NOW(), 26);
@@ -13821,7 +13821,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (403453, "Ema Emits College Philippines Inc.", "M. H. Del Pilar Street", 197, 191, 2458, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (309015, "Francisco "Kiko" Manlises - Calingag High School", "-", 197, 191, 2458, NOW(), 26);
+VALUES (309015, "Francisco \"Kiko\" Manlises - Calingag High School", "-", 197, 191, 2458, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (403454, "Frayre's Nursery & Kinder School", "Recodo, Zone I", 197, 191, 2458, NOW(), 26);
@@ -16836,7 +16836,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (124484, "Pangulogon ES", "-", 202, 243, 5283, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (124485, "Piñalan ES", ""N/A"", 202, 243, 5283, NOW(), 26);
+VALUES (124485, "Piñalan ES", "\"N/A\"", 202, 243, 5283, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (124486, "Piñamar ES", "-na", 202, 243, 5283, NOW(), 26);
@@ -20433,7 +20433,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (305325, "Masambong HS", "Capoas St.", 209, 314, 7839, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (482717, "Master"s Care Christian School", "118 Samonte St. Brgy. Holy Spirit Q.C", 209, 314, 7839, NOW(), 26);
+VALUES (482717, "Master\"s Care Christian School", "118 Samonte St. Brgy. Holy Spirit Q.C", 209, 314, 7839, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (406389, "Mater Carmeli School - D. Tuazon", "288-290 D. Tuazon, Ave. Q.C.", 209, 314, 7839, NOW(), 26);
@@ -20916,7 +20916,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (482562, "Ridge School SFDM, Inc.", "57 Pat Senador St. San Francisco Del Monte", 209, 314, 7839, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (482656, "Rogerian Children"s Learnng Center", "17 Rd.23,", 209, 314, 7839, NOW(), 26);
+VALUES (482656, "Rogerian Children\"s Learnng Center", "17 Rd.23,", 209, 314, 7839, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (482693, "Romarinda International School", "604 (4A) Himlayan Road, Brgy. Pasong Tamo, Quezon City", 209, 314, 7839, NOW(), 26);
@@ -21432,7 +21432,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (482924, "The Child of St. Anne Learning Center", "6-A Road, Area VI, Veterans Village", 209, 314, 7839, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (482505, "The Children"s Ark Preparatory School", "Don Matias", 209, 314, 7839, NOW(), 26);
+VALUES (482505, "The Children\"s Ark Preparatory School", "Don Matias", 209, 314, 7839, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (482891, "The Fountain of Life School of Quezon City, Inc.", "433 Drachma Street", 209, 314, 7839, NOW(), 26);
@@ -26412,7 +26412,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (300050, "Dinaratan National High School", "Dinaratan,Salcedo,Ilocos Sur", 192, 129, 257, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (150521, "KINAYAD ES", ""None"", 192, 129, 257, NOW(), 26);
+VALUES (150521, "KINAYAD ES", "\"None\"", 192, 129, 257, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (100573, "Kinmarin PS", "N/A", 192, 129, 257, NOW(), 26);
@@ -27660,7 +27660,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (123201, "Pilar Elementary School", "-Pilar ES", 201, 227, 9436, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (420511, "Precious Child Montessori of Zambales, Inc. "Annex"", "Rizal, San Antonio", 194, 154, 969, NOW(), 26);
+VALUES (420511, "Precious Child Montessori of Zambales, Inc. \"Annex\"", "Rizal, San Antonio", 194, 154, 969, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (408540, "Precious Heritage School of Zambales, Inc", "Rizal, San Antonio, Zambales", 194, 154, 969, NOW(), 26);

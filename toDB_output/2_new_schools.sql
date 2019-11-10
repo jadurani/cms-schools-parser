@@ -1,3 +1,4 @@
+
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (304116, "Indahag National High School", "Indahag", 203, 258, 5569, NOW(), 26);
 
@@ -200,10 +201,10 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (128005, "Pamalihi Elementary School", "Zone 6, Pamalihi", 203, 258, 5569, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (127999, "Pedro "Oloy" N. Roa, Sr. Elementary School", "Calaanan, Canito-an, Cagayan de Oro City", 203, 258, 5569, NOW(), 26);
+VALUES (127999, "Pedro \"Oloy\" N. Roa, Sr. Elementary School", "Calaanan, Canito-an, Cagayan de Oro City", 203, 258, 5569, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (304110, "Pedro "Oloy" N. Roa, Sr. High School", "PN Roa Subd., Calaanan", 203, 258, 5569, NOW(), 26);
+VALUES (304110, "Pedro \"Oloy\" N. Roa, Sr. High School", "PN Roa Subd., Calaanan", 203, 258, 5569, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (405250, "Philippine Southfield School", "Phase 1 Villa Trinitas Subd., Bugo, Cagayan de Oro City", 203, 258, 5569, NOW(), 26);
@@ -7337,7 +7338,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (106861, "Nagbayan Elementary School", "Asada St. Nagbayan, Castillejos", 194, 154, 1104, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (420556, "Precious Child Montessori of Zambales, Inc. "Main"", "RM BLDG., San Nicolas", 194, 154, 1104, NOW(), 26);
+VALUES (420556, "Precious Child Montessori of Zambales, Inc. \"Main\"", "RM BLDG., San Nicolas", 194, 154, 1104, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (401275, "Precious Heritage School of Zambales, Inc.", "RM bldg. San Nicolas", 194, 154, 1104, NOW(), 26);
@@ -19502,7 +19503,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (320002, "Bangkal HS", "Gen. Malvar cor. Apolonario Streets", 209, 330, 7845, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (305412, "Benigno "Ninoy" S. Aquino HS", "Aguho St.", 209, 330, 7845, NOW(), 26);
+VALUES (305412, "Benigno \"Ninoy\" S. Aquino HS", "Aguho St.", 209, 330, 7845, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (408778, "Berkshire Eli Learning Center, Inc", "Block 42, Lot 10, Xyris Street", 209, 330, 7845, NOW(), 26);

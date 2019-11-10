@@ -7779,7 +7779,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (440136, "St. Vincent Ferrer Parochial School", "Espino Street", 199, 195, 3781, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (436005, ""Eskwela" Phonics Reading Center", "Km. 4 Purok 10 Brgy. 56 Taysan, Legazpi City", 198, 206, 2891, NOW(), 26);
+VALUES (436005, "\"Eskwela\" Phonics Reading Center", "Km. 4 Purok 10 Brgy. 56 Taysan, Legazpi City", 198, 206, 2891, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (403831, "Ago Medical and Educational Center, Inc.", "Rizal St, Legazpi City", 198, 206, 2891, NOW(), 26);
@@ -10161,7 +10161,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (195549, "Maigang ES", "Maigang, Liloy, Zamboanga del Norte", 202, 243, 5258, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (124456, "Malila "L" ES", "-", 202, 243, 5258, NOW(), 26);
+VALUES (124456, "Malila \"L\" ES", "-", 202, 243, 5258, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (124470, "Mauswagon ES", "Mauswagon, Liloy, Zn.", 202, 243, 5258, NOW(), 26);
@@ -15003,7 +15003,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (302572, "Siwalo NHS", "-", 199, 195, 3632, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (404019, "St. James Catholic High School "Hijas de Jesus"", "Delgado St.", 199, 195, 3632, NOW(), 26);
+VALUES (404019, "St. James Catholic High School \"Hijas de Jesus\"", "Delgado St.", 199, 195, 3632, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (440120, "St. James The Great Preschool Mensa Domini Sisters, Inc.", "Delgado", 199, 195, 3632, NOW(), 26);

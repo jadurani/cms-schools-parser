@@ -15501,7 +15501,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (424358, "Sacred Heart of Jesus and Mary Academe of Cavite", "Blk. 8 Lot 10 Austria Drive, Franceville Homes", 196, 165, 1791, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (424130, "Sacred Heart Villa School "Maria Schinina"", "181 Agunaldo Highway", 196, 165, 1791, NOW(), 26);
+VALUES (424130, "Sacred Heart Villa School \"Maria Schinina\"", "181 Agunaldo Highway", 196, 165, 1791, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (109484, "San Miguel Elementary School", "Sittio Banaba", 196, 165, 1791, NOW(), 26);
@@ -22383,7 +22383,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (408527, "Search Mission Baptist Academy, Inc.", "4 R1 M. Dela Paz Street, Ibayo", 209, 319, 7840, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (320604, "Sen. Renato "Compañero" Cayetano Memorial Science & Technology High School", "31st cor. 51st Sts. BCDA, PDS Village, Ususan, Taguig City", 209, 319, 7840, NOW(), 26);
+VALUES (320604, "Sen. Renato \"Compañero\" Cayetano Memorial Science & Technology High School", "31st cor. 51st Sts. BCDA, PDS Village, Ususan, Taguig City", 209, 319, 7840, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (304946, "SHS in Barangay Fort Bonifacio", "2332 Chino Roces Avenue, Extension NCP Compound", 209, 319, 7840, NOW(), 26);
@@ -22461,7 +22461,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (408110, "The Abba's Orchard School, Inc.", "GF Morgan Suites Residences, Mckinley Hill", 209, 319, 7840, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (488050, "The Fisher Valley College "C-5 Annex"", "Pinagsama Vill. Western Bicutan Taguig City", 209, 319, 7840, NOW(), 26);
+VALUES (488050, "The Fisher Valley College \"C-5 Annex\"", "Pinagsama Vill. Western Bicutan Taguig City", 209, 319, 7840, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (407258, "The Fisher Valley College, Hagonoy", "#5 M.L.Quezon St. Hagonoy Taguig City", 209, 319, 7840, NOW(), 26);
@@ -24201,7 +24201,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (124853, "Lumbayao ES", "LUMBAYAO,TAMPILISAN,ZAMBO.NORTE.", 202, 243, 5298, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (124854, "Malila "T" ES", "Malila, Tampilisan, Zamboanga del Norte", 202, 243, 5298, NOW(), 26);
+VALUES (124854, "Malila \"T\" ES", "Malila, Tampilisan, Zamboanga del Norte", 202, 243, 5298, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (124855, "Molos ES", "-", 202, 243, 5298, NOW(), 26);
@@ -26937,7 +26937,7 @@ INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `d
 VALUES (115339, "Amar Elementary School", "AMAR", 199, 214, 3950, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
-VALUES (178510, "Apfemtava "Igputoy" Satellite School Annex of Tuno", "SITIO APFEMTAVA", 199, 214, 3950, NOW(), 26);
+VALUES (178510, "Apfemtava \"Igputoy\" Satellite School Annex of Tuno", "SITIO APFEMTAVA", 199, 214, 3950, NOW(), 26);
 
 INSERT INTO ki_schools (`official_school_id`, `name`, `address`, `region_id`, `division_id`, `city_id`, `added_date`, `added_by`)
 VALUES (115340, "Bandoja PS", "-", 199, 214, 3950, NOW(), 26);

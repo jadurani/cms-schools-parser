@@ -3,6 +3,11 @@
 import json
 import sys
 
+
+# OUTPUT viea stout redirection
+# ./toDB.py 1 > toDB_output/1_new_schools.sql
+# ./toDB.py 2 > toDB_output/2_new_schools.sql
+
 TODB_PATH = "manuallyMatch_output/toDB.json"
 BATCH = int(sys.argv[1])
 
@@ -16,8 +21,8 @@ VALUES (%d, "%s", "%s", %d, %d, %d, %s, %d);"""
 
   values = (
     int(schoolData["official_school_id"]),
-    schoolData["name"].encode('utf-8'),
-    schoolData["address"].encode('utf-8'),
+    schoolData["name"].replace("\"", "\\\"").encode('utf-8'),
+    schoolData["address"].replace("\"", "\\\"").encode('utf-8'),
     int(schoolData["region_id"]),
     int(schoolData["division_id"]),
     int(schoolData["city_id"]),
